@@ -1,10 +1,10 @@
 
-# library(igraph)  # ライブラリを読み込み
-# ER<-erdos.renyi.game(n=200,p=0.05)  # ER モデルでノード数 200 密度 0.05 のグラフを生成
+library(igraph)  # ライブラリを読み込み
+ER<-erdos.renyi.game(n=200,p=0.05)  # ER モデルでノード数 200 密度 0.05 のグラフを生成
 # write.graph(g1,"er.dot",format="dot") # グラフを er.dot というファイルに書き出し
-# WS<-watts.strogatz.game(dim=1,size=200,nei=5,p=0.05) # WS モデルでグラフを生成
+WS<-watts.strogatz.game(dim=1,size=200,nei=5,p=0.05) # WS モデルでグラフを生成
 # write.graph(g2,"ws.dot",format="dot") 
-# BA<-ba.game(n=200,m=2,directed=F) # BA モデルでグラフを生成
+BA<-ba.game(n=200,m=2,directed=F) # BA モデルでグラフを生成
 # write.graph(g3,"ba.dot",format="dot")
 
 # #plot
