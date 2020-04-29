@@ -18,7 +18,7 @@ do
 groundtruth=${folder}/Comm${i}.txt #Groundtruth of communities for checking NMI and ...
 network=${folder}/Net${i}.txt #Underlying network structure for caclucating density and ...
 
-for j in 100 500 1000 3000 4000 5000 7000 10000 12000 15000 20000 #different cascades
+for j in 1000 #100 500 1000 3000 4000 5000 7000 10000 12000 15000 20000 #different cascades
 do
 subfolder=${folder}/${method}
 mkdir ${subfolder}
