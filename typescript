@@ -1,0 +1,39 @@
+Script started on Thu May 14 21:57:56 2020
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mdevelop[34m) [33m✗[00m [K[?1h=[?2004hcd CommDiff-Package/CommDiff-Package/src/SampleDataset&Script       [?1l>[?2004l
+]2;cd CommDiff-Package/CommDiff-Package/src/SampleDataset]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mdevelop[34m) [33m✗[00m [K[?1h=[?2004hggit checkout - b  b feature/1 net1-c      for-1     case-1[?1l>[?2004l
+]2;git checkout -b feature/case-1]1;gitD	CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/Script__LFRDataset.sh
+D	CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/fastutil.txt
+D	CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/handlers.txt
+M	CommDiff-Package/LFR/cicm-1_Ev.txt
+M	CommDiff-Package/LFR/cicm-1_Structure.txt
+M	CommDiff-Package/LFR/diffusionBased-1_Ev.txt
+M	CommDiff-Package/LFR/diffusionBased-1_Structure.txt
+M	CommDiff-Package/LFR/myDANIBased-1_Ev.txt
+M	CommDiff-Package/LFR/myDANIBased-1_NMI.txt
+M	CommDiff-Package/LFR/myDANIBased-1_Structure.txt
+M	CommDiff-Package/LFR/myRandBased-1-Result
+M	CommDiff-Package/LFR/myRandBased-1_Ev.txt
+M	CommDiff-Package/LFR/myRandBased-1_NMI.txt
+M	CommDiff-Package/LFR/myRandBased-1_Structure.txt
+M	CommDiff-Package/LFR/myRandBased-2-Result
+M	CommDiff-Package/LFR/myRandBased-3-Result
+M	CommDiff-Package/LFR/myRandBased-4-Result
+M	CommDiff-Package/LFR/myRandBased-5-Result
+M	CommDiff-Package/LFR/myRandBased/LFRB-miu1-cas1000
+M	CommDiff-Package/LFR/myRandBased/LFRB-miu2-cas1000
+M	CommDiff-Package/LFR/myRandBased/LFRB-miu3-cas1000
+M	CommDiff-Package/LFR/myRandBased/LFRB-miu4-cas1000
+M	CommDiff-Package/LFR/myRandBased/LFRB-miu5-cas1000
+Switched to a new branch 'feature/case-1'
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit commi t -m ""t"e"" " a"d"d":"t"e"s"t"" " " " f"e"a"t"u"r"e"" " " " " " " t"e"s"t"" " " " " " " " r"e"m"o"v"e":"2"-"5" "f"" " f"a"i"l"s"" " " " i"k"e"s"" " " l"e"s"[?1l>[?2004l
+]2;git commit -m "remove:2-5files"]1;git[feature/case-1 891d148] remove:2-5files
+ 4 files changed, 13462 insertions(+)
+ create mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset/Script__LFRDataset.sh
+ create mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset/fastutil.txt
+ create mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset/handlers.txt
+ create mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset/test1.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hgit commit -m "remove:2-5files"[27Dadd .                      [22Dcommit -m "remove:2-5files"[31D                               [31Dccd ../../[?1l>[?2004l
+]2;cd ../../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccd ./ ./[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hure/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit commi t -m ""t"e"" " a"d"d":"t"e"s"t"" " " " f"e"a"t"u"r"e"" " " " " " " t"e"s"t"" " " " " " " " r"e"m"o"v"e":"2"-"5" "f"" " f"a"i"l"s"" " " " i"k"e"s"

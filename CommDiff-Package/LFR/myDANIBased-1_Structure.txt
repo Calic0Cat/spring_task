@@ -24,3 +24,81 @@ Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
 Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
 Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - - myDANIBased-miu1-Cas1000 - - - - - - - - - - - - 
+Links info:	#vertices	#Directed edges	#Undirected edges	Bidirectional links	Avg#outlinks 	Min#outlinks 	Max#outlinks 	Avg#inlinks 	Min#inlinks 	Max#inlinks 
+           	1000	7692	7692	0	7.692	0	18	7.692	0	50
+#Communities:	57
+Modularity:	0.3909700622294263
+Entropy:	0.009432433695897871
+Total Metrics   :	Min	Max	Avg	harmonic mean	Median mean
+Conductance     :	0.12264150943396226	1.0	0.7521528707031088	0.5329308274343144	0.9523809523809523
+Internal Density:	0.0	1.0	0.8834336304073864	0.0	0.9333333333333333
+Cut Ratio:        	0.001326530612244898	0.011523046092184368	0.006588261048007995	0.005400541109184817	0.007355399531929121
+Sizes:            	1.0	127.0	17.54385964912281	4.193269789653568	6.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
