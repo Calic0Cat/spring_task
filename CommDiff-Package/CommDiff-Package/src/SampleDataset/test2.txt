@@ -1,0 +1,823 @@
+:../lib/data_handlers.jar:../lib/fastutil-6.4.2.jar
+DANI is done!
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myDANIBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myDANIBased/LFRB-miu1-cas1000
+Done
+N Communities	57
+N Nodes	1000
+Assignments	1000
+DANI is done!
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myDANIBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myDANIBased/LFRB-miu1-cas1000
+Done
+N Communities	57
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	798.0
+darsad	0.798
+Change:	467.0
+darsad	0.467
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	825.0
+darsad	0.825
+Change:	497.0
+darsad	0.497
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	494.0
+darsad	0.494
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	835.0
+darsad	0.835
+Change:	526.0
+darsad	0.526
+Change:	169.0
+darsad	0.169
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	543.0
+darsad	0.543
+Change:	202.0
+darsad	0.202
+Converge
+**********
+Step is 	60
+nodes	1000
+Change:	832.0
+darsad	0.832
+Change:	556.0
+darsad	0.556
+Change:	194.0
+darsad	0.194
+Converge
+**********
+Step is 	70
+nodes	1000
+Change:	823.0
+darsad	0.823
+Change:	508.0
+darsad	0.508
+Change:	158.0
+darsad	0.158
+Converge
+**********
+Step is 	80
+nodes	1000
+Change:	832.0
+darsad	0.832
+Change:	497.0
+darsad	0.497
+Converge
+**********
+Step is 	90
+Time:	2988
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	80
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	804.0
+darsad	0.804
+Change:	459.0
+darsad	0.459
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	820.0
+darsad	0.82
+Change:	504.0
+darsad	0.504
+Change:	164.0
+darsad	0.164
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	819.0
+darsad	0.819
+Change:	499.0
+darsad	0.499
+Converge
+**********
+Step is 	40
+Time:	2045
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	30
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	778.0
+darsad	0.778
+Change:	441.0
+darsad	0.441
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	811.0
+darsad	0.811
+Change:	500.0
+darsad	0.5
+Change:	178.0
+darsad	0.178
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	838.0
+darsad	0.838
+Change:	532.0
+darsad	0.532
+Change:	211.0
+darsad	0.211
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	829.0
+darsad	0.829
+Change:	528.0
+darsad	0.528
+Change:	186.0
+darsad	0.186
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	823.0
+darsad	0.823
+Change:	548.0
+darsad	0.548
+Change:	197.0
+darsad	0.197
+Converge
+**********
+Step is 	60
+nodes	1000
+Change:	824.0
+darsad	0.824
+Change:	564.0
+darsad	0.564
+Change:	200.0
+darsad	0.2
+Converge
+**********
+Step is 	70
+nodes	1000
+Change:	820.0
+darsad	0.82
+Change:	511.0
+darsad	0.511
+Change:	184.0
+darsad	0.184
+Converge
+**********
+Step is 	80
+Time:	2648
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	66
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	779.0
+darsad	0.779
+Change:	470.0
+darsad	0.47
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	803.0
+darsad	0.803
+Change:	506.0
+darsad	0.506
+Change:	182.0
+darsad	0.182
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	826.0
+darsad	0.826
+Change:	536.0
+darsad	0.536
+Change:	215.0
+darsad	0.215
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	535.0
+darsad	0.535
+Change:	200.0
+darsad	0.2
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	829.0
+darsad	0.829
+Change:	497.0
+darsad	0.497
+Converge
+**********
+Step is 	60
+Time:	3072
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	50
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	778.0
+darsad	0.778
+Change:	423.0
+darsad	0.423
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	480.0
+darsad	0.48
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	841.0
+darsad	0.841
+Change:	540.0
+darsad	0.54
+Change:	198.0
+darsad	0.198
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	809.0
+darsad	0.809
+Change:	474.0
+darsad	0.474
+Converge
+**********
+Step is 	50
+Time:	2126
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	40
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	781.0
+darsad	0.781
+Change:	432.0
+darsad	0.432
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	813.0
+darsad	0.813
+Change:	474.0
+darsad	0.474
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	824.0
+darsad	0.824
+Change:	497.0
+darsad	0.497
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	827.0
+darsad	0.827
+Change:	505.0
+darsad	0.505
+Change:	175.0
+darsad	0.175
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	826.0
+darsad	0.826
+Change:	519.0
+darsad	0.519
+Change:	208.0
+darsad	0.208
+Converge
+**********
+Step is 	60
+Time:	2509
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	50
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	773.0
+darsad	0.773
+Change:	438.0
+darsad	0.438
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	510.0
+darsad	0.51
+Change:	191.0
+darsad	0.191
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	844.0
+darsad	0.844
+Change:	549.0
+darsad	0.549
+Change:	182.0
+darsad	0.182
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	821.0
+darsad	0.821
+Change:	514.0
+darsad	0.514
+Change:	172.0
+darsad	0.172
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	830.0
+darsad	0.83
+Change:	515.0
+darsad	0.515
+Change:	170.0
+darsad	0.17
+Converge
+**********
+Step is 	60
+Time:	2455
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	49
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	792.0
+darsad	0.792
+Change:	473.0
+darsad	0.473
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	816.0
+darsad	0.816
+Change:	501.0
+darsad	0.501
+Change:	220.0
+darsad	0.22
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	834.0
+darsad	0.834
+Change:	538.0
+darsad	0.538
+Change:	258.0
+darsad	0.258
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	845.0
+darsad	0.845
+Change:	565.0
+darsad	0.565
+Change:	210.0
+darsad	0.21
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	833.0
+darsad	0.833
+Change:	510.0
+darsad	0.51
+Change:	157.0
+darsad	0.157
+Converge
+**********
+Step is 	60
+nodes	1000
+Change:	828.0
+darsad	0.828
+Change:	522.0
+darsad	0.522
+Change:	166.0
+darsad	0.166
+Converge
+**********
+Step is 	70
+nodes	1000
+Change:	824.0
+darsad	0.824
+Change:	560.0
+darsad	0.56
+Change:	213.0
+darsad	0.213
+Converge
+**********
+Step is 	80
+nodes	1000
+Change:	812.0
+darsad	0.812
+Change:	506.0
+darsad	0.506
+Change:	171.0
+darsad	0.171
+Converge
+**********
+Step is 	90
+nodes	1000
+Change:	810.0
+darsad	0.81
+Change:	513.0
+darsad	0.513
+Change:	183.0
+darsad	0.183
+Converge
+**********
+Step is 	100
+Time:	3524
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	85
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	796.0
+darsad	0.796
+Change:	465.0
+darsad	0.465
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	815.0
+darsad	0.815
+Change:	470.0
+darsad	0.47
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	841.0
+darsad	0.841
+Change:	553.0
+darsad	0.553
+Change:	185.0
+darsad	0.185
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	842.0
+darsad	0.842
+Change:	551.0
+darsad	0.551
+Change:	198.0
+darsad	0.198
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	828.0
+darsad	0.828
+Change:	542.0
+darsad	0.542
+Change:	204.0
+darsad	0.204
+Converge
+**********
+Step is 	60
+nodes	1000
+Change:	823.0
+darsad	0.823
+Change:	537.0
+darsad	0.537
+Change:	180.0
+darsad	0.18
+Converge
+**********
+Step is 	70
+nodes	1000
+Change:	817.0
+darsad	0.817
+Change:	538.0
+darsad	0.538
+Change:	218.0
+darsad	0.218
+Converge
+**********
+Step is 	80
+Time:	4767
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	69
+N Nodes	1000
+Assignments	1000
+Nodes	1000
+number of cascades: 1000
+Cosine finished
+Step is 	10
+nodes	1000
+Change:	771.0
+darsad	0.771
+Change:	397.0
+darsad	0.397
+Converge
+**********
+Step is 	20
+nodes	1000
+Change:	816.0
+darsad	0.816
+Change:	503.0
+darsad	0.503
+Change:	171.0
+darsad	0.171
+Converge
+**********
+Step is 	30
+nodes	1000
+Change:	828.0
+darsad	0.828
+Change:	524.0
+darsad	0.524
+Change:	211.0
+darsad	0.211
+Converge
+**********
+Step is 	40
+nodes	1000
+Change:	831.0
+darsad	0.831
+Change:	526.0
+darsad	0.526
+Change:	203.0
+darsad	0.203
+Converge
+**********
+Step is 	50
+nodes	1000
+Change:	818.0
+darsad	0.818
+Change:	515.0
+darsad	0.515
+Change:	199.0
+darsad	0.199
+Converge
+**********
+Step is 	60
+nodes	1000
+Change:	819.0
+darsad	0.819
+Change:	518.0
+darsad	0.518
+Change:	200.0
+darsad	0.2
+Converge
+**********
+Step is 	70
+nodes	1000
+Change:	825.0
+darsad	0.825
+Change:	532.0
+darsad	0.532
+Change:	180.0
+darsad	0.18
+Converge
+**********
+Step is 	80
+Time:	6445
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	69
+N Nodes	1000
+Assignments	1000
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/myRandBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/myRandBased/LFRB-miu1-cas1000
+Done
+N Communities	69
+N Nodes	1000
+Assignments	1000
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/diffusionBased/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/diffusionBased/LFRB-miu1-cas1000
+Done
+N Communities	57
+N Nodes	1000
+Assignments	1000
+ - - - - Clustering Evaluation - - - - 
+Reading ground truth from 	../../../LFR/Comm1.txt
+Reading model from 	../../../LFR/cicm/LFRB-miu1-cas1000
+ - - - - Community Structure Evaluator- - - - 
+------------------------------------------------
+Reading links from: ../../../LFR/Net1.txt
+Links loaded!
+Number of duplicates	0
+------------------------------------------------
+Reading assignments file	../../../LFR/cicm/LFRB-miu1-cas1000
+Done
+N Communities	57
+N Nodes	1000
+Assignments	1000

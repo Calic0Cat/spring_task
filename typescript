@@ -35,5 +35,2300 @@ Switched to a new branch 'feature/case-1'
  create mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset/test1.txt
 [1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hgit commit -m "remove:2-5files"[27Dadd .                      [22Dcommit -m "remove:2-5files"[31D                               [31Dccd ../../[?1l>[?2004l
 ]2;cd ../../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccd ./ ./[?1l>[?2004l
-]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hure/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
-]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit commi t -m ""t"e"" " a"d"d":"t"e"s"t"" " " " f"e"a"t"u"r"e"" " " " " " " t"e"s"t"" " " " " " " " r"e"m"o"v"e":"2"-"5" "f"" " f"a"i"l"s"" " " " i"k"e"s"
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hcd ../../[9Dgit commit -m "remove:2-5files"[27Dadd .                      [22Dcheckout -b feature/case-1[26Dadd .                     [21D[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hgit add .[9Dcd ../   ../[9Dgit commit -m "remove:2-5files"[?1l>[?2004l
+]2;git commit -m "remove:2-5files"]1;git[feature/case-1 9d8dcfb] remove:2-5files
+ 42 files changed, 463 insertions(+), 18899 deletions(-)
+ delete mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/Script__LFRDataset.sh
+ delete mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/fastutil.txt
+ delete mode 100644 CommDiff-Package/CommDiff-Package/src/SampleDataset&Script/handlers.txt
+ delete mode 100644 CommDiff-Package/LFR/Cascade-2/E-1000-cascades.txt
+ delete mode 100644 CommDiff-Package/LFR/Cascade-3/E-1000-cascades.txt
+ delete mode 100644 CommDiff-Package/LFR/Cascade-4/E-1000-cascades.txt
+ delete mode 100644 CommDiff-Package/LFR/Cascade-5/E-1000-cascades.txt
+ create mode 100644 CommDiff-Package/LFR/cicm-1_NMI.txt
+ delete mode 100644 CommDiff-Package/LFR/cicm/LFRB-miu2-cas1000
+ delete mode 100644 CommDiff-Package/LFR/cicm/LFRB-miu3-cas1000
+ delete mode 100644 CommDiff-Package/LFR/cicm/LFRB-miu4-cas1000
+ delete mode 100644 CommDiff-Package/LFR/cicm/LFRB-miu5-cas1000
+ create mode 100644 CommDiff-Package/LFR/diffusionBased-1_NMI.txt
+ delete mode 100644 CommDiff-Package/LFR/diffusionBased/LFRB-miu2-cas1000
+ delete mode 100644 CommDiff-Package/LFR/diffusionBased/LFRB-miu3-cas1000
+ delete mode 100644 CommDiff-Package/LFR/diffusionBased/LFRB-miu4-cas1000
+ delete mode 100644 CommDiff-Package/LFR/diffusionBased/LFRB-miu5-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myDANIBased/LFRB-miu2-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myDANIBased/LFRB-miu3-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myDANIBased/LFRB-miu4-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myDANIBased/LFRB-miu5-cas1000
+ rewrite CommDiff-Package/LFR/myRandBased/LFRB-miu1-cas1000 (98%)
+ delete mode 100644 CommDiff-Package/LFR/myRandBased/LFRB-miu2-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myRandBased/LFRB-miu3-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myRandBased/LFRB-miu4-cas1000
+ delete mode 100644 CommDiff-Package/LFR/myRandBased/LFRB-miu5-cas1000
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggit log[?1l>[?2004l
+]2;git log]1;git[?1049h[?1h=[33mcommit 9d8dcfb786721faf32cde9bb6c6a7e4d212d5a64[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/case-1[m[33m)[m[m
+Author: calic0cat <suzuki11235813@gmail.com>[m
+Date:   Thu May 14 22:11:35 2020 +0900[m
+[m
+    remove:2-5files[m
+[m
+[33mcommit 891d1482f6beb5c437a807afd0a0da265ccd1406[m[m
+Author: calic0cat <suzuki11235813@gmail.com>[m
+Date:   Thu May 14 22:11:09 2020 +0900[m
+[m
+    remove:2-5files[m
+[m
+[33mcommit 34f7124c988f26e2390133b4533905aae34f428f[m[33m ([m[1;32mdevelop[m[33m)[m[m
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KAuthor: calic0cat <suzuki11235813@gmail.com>[m
+:[K[K:[K11[K[K:[K[K [KESCESC[K11[K:[K[K [KESCESC[Kqq[K:[K[K [KESCESC[KESCESC[K:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hgit logcommit -m "remove:2-5files"[27Dlog                        [24D       ccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料]1;..ktop/研究資料[0m[27m[24m[J[01;32m➜  [36m研究資料[00m [K[?1h=[?2004hccd sproi  ing[?1l>[?2004l
+]2;cd spring]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring]1;..究資料/spring[0m[27m[24m[J[01;32m➜  [36mspring[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccd Comm
+[J[1;31mCommDiff-Package[0m/  [J[1;31mcommon-exec[0m/     [J[A[0m[27m[24m[33Ccd Comm[KDiff-Package[1m/[0m[0m [?1l>[?2004l
+[J]2;cd CommDiff-Package]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package]1;..mDiff-Package[0m[27m[24m[J[01;32m➜  [36mCommDiff-Package[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccd coCommDiff-Package[1m/[0m[0m/sample     rc[1m/[0m[0m/sampleS[5CDataset[1m/[0m[0m [?1l>[?2004l
+]2;cd CommDiff-Package/src/SampleDataset]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hccdc  s ssh Script_LFRD           s  //Users/SuzukiDaiki/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset/Script__LFRDataset.s [Kh[K[A[154C[K[1B[K[A[154C                                                                                                     [?1l>[?2004l[1B]2;/Users/Suzuki]1;/Users/Suzukizsh: no such file or directory: /Users/Suzuki
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;31m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hsshs  ssh s  lls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mLFRDataSet[39;49m[0m            Script__LFRDataset.sh fastutil.txt          handlers.txt          test1.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hssh Script__LFRDataset.sh[1m [0m[0m > test2.txt[?1l>[?2004l
+]2;sh Script__LFRDataset.sh > test2.txt]1;shmkdir: ../../../LFR/myDANIBased: File exists
+Exception in thread "main" java.io.FileNotFoundException: ../../../LFR/myDANIBased/Weight-miu1-Cas1000 (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:212)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:154)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:109)
+	at myDANIBased.DANIProgram.main(DANIProgram.java:123)
+mkdir: ../../../LFR/myDANIBased: File exists
+Exception in thread "main" java.io.FileNotFoundException: ../../../LFR/myDANIBased/Weight-miu1-Cas1000 (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:212)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:154)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:109)
+	at myDANIBased.DANIProgram.main(DANIProgram.java:123)
+mkdir: ../../../LFR/myRandBased: File exists
+mkdir: ../../../LFR/diffusionBased: File exists
+エラー: メイン・クラスdiffusionBased.CommunityRate_Inferenceを検出およびロードできませんでした
+原因: java.lang.ClassNotFoundException: diffusionBased.CommunityRate_Inference
+mkdir: ../../../LFR/cicm: File exists
+エラー: メイン・クラスcicm.CommunityIC_Inferenceを検出およびロードできませんでした
+原因: java.lang.ClassNotFoundException: cicm.CommunityIC_Inference
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hsh Script__LFRDataset.sh > test2.txt[36D                                    [36Djjar -tf ../lib/fastutil-6.4.2.jar >> fastutil.txt[34Ddata_handlers.jar >> handlers.txt [15D               [16D[17Dfastutil-6.4.2.jar[18Ddata_handlers.jar [30Dvac ../myDANIBased/DANIProgram.java[33D -jar ../lib/fastutil-6.4.2.jar  [31Dc ../myDANIBased/DANIProgram.java[35Dr -tf ../lib/data_handlers.jar     [17Dfastutil-6.4.2.jar[18Ddata_handlers.jar  >> handlers.txt[33Dfastutil-6.4.2.jar >> fastutil.txt[47D                                               [47Dr -tf ../lib/fastutil-6.4.2.jar >> fastutil.txt[34Ddata_handlers.jar >> handlers.txt [15D               [16D[17Dfastutil-6.4.2.jar[18Ddata_handlers.jar [30Dvac ../myDANIBased/DANIProgram.java[33D -jar ../lib/fastutil-6.4.2.jar  [31Dc ../myDANIBased/DANIProgram.java[35Dr -tf ../lib/data_handlers.jar     [17Dfastutil-6.4.2.jar[18Ddata_handlers.jar                             j  hhistory      h  hhistory ||        h  ggrep history        java history[?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} java ]1;grepgrep: history: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;31m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hgrep java history|history|history history[?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} java || ]1;grep^C
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;31m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hhhistory || grep java >.  grepjava.txt[?1l>[?2004l
+]2;omz_history || grep --color=auto  java > grepjava.txt]1;history    1  touch ssh
+    2  ls
+    3  cd ~
+    4  ssh pi@raspberrypi.local
+    5  diskutil unMountDisk /dev/disk2
+    6  diskutil eraseDisk MS-DOS disk2s1 /dev/disk2
+    7  udo dd if=/Use of=/dev/rdisk2 bs=1
+    8  ls
+    9  sudo dd if=Downloads/2019-09-26-raspbian-stretch.img of=/dev/rdisk2 bs=1m
+   10  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+   11  cd /Volumes/boot
+   12  touch ssh
+   13  vi config.txt
+   14  vi cmdline.txt
+   15  cd ~
+   16  ssh pi@raspberrypi.local
+   17  ssh-keygen -R raspberrypi.local
+   18  ssh pi@raspberrypi.local
+   19  pip install pyserial
+   20  sudo pip install virtualenv
+   21  pytyon --version
+   22  python --version
+   23  pip list
+   24  python -m ensurepip
+   25  sudo python -m ensurepip
+   26  pip install virtualenv
+   27  sudo pip install virtualenv
+   28  cd Desktop
+   29  pip download -d slackbot slackbot
+   30  ssh pi@raspberrypi.local
+   31  bc
+   32  diskutil unMountDisk /dev/disk2
+   33  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+   34  cd /Volumes/boot
+   35  touch ssh
+   36  vi config.txt
+   37  vi cmdline.txt
+   38  cd ~
+   39  ssh pi@raspberrypi.local
+   40  sudo dd if=/dev/disk2 of=~/2020-01-08-raspberry.img
+   41  diskutil list
+   42  sudo dd if=/dev/disk2 of=/Users/SuzukiDaiki/Desktop/2020-01-08-raspberry.img
+   43  ssh pi@raspberrypi.local
+   44  ls
+   45  ssh pi@raspberrypi.local
+   46  ssh pi@raspbeery.local
+   47  ping raspberry.local
+   48  sudo vi /etc/hosts
+   49  ssh pi@raspbeery.local
+   50  arp -h
+   51  arp -a
+   52  ping 192.168.43.1
+   53  ssh pi@192.168.43.1
+   54  ssh pi@224.0.0.251
+   55  ssh pi`239.255.255.250
+   56  ssh pi@239.255.255.250
+   57  ssh pi@raspbeery.local
+   58  ssh pi@raspberrypi.local
+   59  bc
+   60  ssh pi@raspberrypi.local
+   61  ls
+   62  ssh pi@raspberrypi.local
+   63  sudo dd if=/dev/disk2 of=Desktop/2020-01-14raspberry.img
+   64  ssh pi@raspberrypi.local
+   65  ssh-keygen -R raspberrypi.local
+   66  ssh pi@raspberrypi.local
+   67  ssh-keygen -R raspberrypi.local
+   68  ssh pi@raspberrypi.local
+   69  ping raspberrypi.local
+   70  sudo killall -HUP mDNSResponder
+   71  ssh pi@raspberrypi.local
+   72  ssh -p 22 pi@raspberrypi.local
+   73  ssh -l pi -p 22 raspberrypi.local
+   74  ssh pi@raspberrypi.local
+   75  arp -a
+   76  ssh pi@192.168.43.1
+   77  ssh pi@192.168.43.149
+   78  ssh pi@raspberrypi.local
+   79  arp -a
+   80  ping raspberrypi.local
+   81  ssh pi@192.168.43.149
+   82  ssh-keygen -R raspberrypi.local
+   83  ping raspberrypi.local
+   84  ssh pi@raspberrypi.local
+   85  vi /etc/hosts
+   86  sudo vi /etc/hosts
+   87  ssh pi@raspi
+   88  ssh pi@raspi.loca grepjava.txt[?1l>[?2004l
+]2;omz_history || grep --color=auto  java > grepjava.txt]1;history    1  touch ssh
+    2  ls
+    3  cd ~
+    4  ssh pi@raspberrypi.local
+    5  diskutil unMountDisk /dev/disk2
+    6  diskutil eraseDisk MS-DOS disk2s1 /dev/disk2
+    7  udo dd if=/Use of=/dev/rdisk2 bs=1
+    8  ls
+    9  sudo dd if=Downloads/2019-09-26-raspbian-stretch.img of=/dev/rdisk2 bs=1m
+   10  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+   11  cd /Volumes/boot
+   12  touch ssh
+   13  vi config.txt
+   14  vi cmdline.txt
+   15  cd ~
+   16  ssh pi@raspberrypi.local
+   17  ssh-keygen -R raspberrypi.local
+   18  ssh pi@raspberrypi.local
+   19  pip install pyserial
+   20  sudo pip install virtualenv
+   21  pytyon --version
+   22  python --version
+   23  pip list
+   24  python -m ensurepip
+   25  sudo python -m ensurepip
+   26  pip install virtualenv
+   27  sudo pip install virtualenv
+   28  cd Desktop
+   29  pip download -d slackbot slackbot
+   30  ssh pi@raspberrypi.local
+   31  bc
+   32  diskutil unMountDisk /dev/disk2
+   33  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+   34  cd /Volumes/boot
+  s/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  130  cd /Volumes/boot
+  131  touch ssh
+  132  vi config.txt
+  133  vi cmdline.txt
+  134  cd ~
+  135  ssh pi@raspberrypi.local
+  136  cd /Volumes/boot
+  137  vi config.txt
+  138  vi cmdline.txt
+  139  cd ~
+  140  ssh pi@raspberrypi.local
+  141  diskutil list
+  142  diskutil unMountDisk /dev/disk2
+  143  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  144  cd /Volumes/boot
+  145  touch ssh
+  146  cd ~
+  147  cd /Volumes/boot
+  148  vi config.txt
+  149  cd ~
+  150  diskutil list
+  151  diskutil unMountDisk /dev/disk2
+  152  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  153  arp -a
+  154  cd /Volumes/boot
+  155  ls
+  156  vi wpa_supplicant.conf
+  157  ls
+  158  touch ssh
+  159  cd ~
+  160  cd
+  161  diskutil eject /dev/rdisk2
+  162  arp -a
+  163  cd /Volumes
+  164  ls
+  165  cd boot
+  166  ls
+  167  touch ssh
+  168  ls
+  169  cd
+  170  diskutil eject /dev/rdisk2
+  171  cd /Volumes/boot
+  172  arp -a
+  173  vi wpa_supplicant.conf
+  174  ls
+  175  cd
+  176  arp -a
+  177  ping raspberrypi.local
+  178  arp -a
+  179  ssh pi@raspberrypi.local
+  180  ssh-keygen -R raspberrypi.local
+  181  ssh pi@raspberrypi.local
+  182  arp -a
+  183  ifconfig
+  184  ssh pi@192.168.43.1
+  185  diskutil unMountDisk /dev/disk2
+  186  sudo dd if=Desktop/cojt_autumn/2020-01-14raspberry.img of=/dev/rdisk2 bs=1m
+  187  cd /Volumes/boot
+  188  ls
+  189  cat cmdline.txt
+  190  cd
+  191  ssh pi@raspberrypi.local
+  192  arp -a
+  193  ssh pi@raspberrypi.local
+  194  arp -a
+  195  ping 192.168.43.149
+  196  ssh pi@192.168.43.149
+  197  arp -a
+  198  diskutil unMountDisk /dev/disk2
+  199  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  200  arp -a
+  201  ping 192.168.43.149
+  202  ssh pi@192.168.43.149
+  203  ping 192.168.43.149
+  204  cd /Volumes/boot
+  205  touch ssh
+  206  nano wpa_supplicant.conf
+  207  ls
+  208  cd
+  209  diskutil eject /dev/rdisk2
+  210  ssh pi@raspberrypi.local
+  211  history
+  212  ssh-keygen -R raspberrypi.local
+  213  ssh pi@raspberrypi.local
+  214  arp -a
+  215  ifconfig
+  216  ping 192.168.43.86
+  217  ping 169.254.119.4
+  218  arp -a
+  219  ssh pi@192.168.43.86
+  220  ssh-keygen -R raspberrypi.local
+  221  ssh pi@raspberrypi.local
+  222  ssh-keygen -R raspberrypi.local
+  223  ssh pi@raspberrypi.local
+  224  ssh pi@192.168.43.149
+  225  ping 192.168.43.149
+  226  arp -a
+  227  ping 192.168.43.149
+  228  ssh pi@raspberrypi.local
+  229  ping 192.168.43.149
+  230  ssh pi@raspberrypi.local
+  231  cd git
+  232  ls
+  233  git clone git@github.com:tiny-steLLa/COJT-Autumn.git
+  234  cd git
+  235  git clone git@github.com:tiny-steLLa/COJT-Autumn.git
+  236  xcode-select --install
+  237  gi-full.img of=/dev/rdisk2 bs=1m
+  130  cd /Volumes/boot
+  131  touch ssh
+  132  vi config.txt
+  133  vi cmdline.txt
+  134  cd ~
+  135  ssh pi@raspberrypi.local
+  136  cd /Volumes/boot
+  137  vi config.txt
+  138  vi cmdline.txt
+  139  cd ~
+  140  ssh pi@raspberrypi.local
+  141  diskutil list
+  142  diskutil unMountDisk /dev/disk2
+  143  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  144  cd /Volumes/boot
+  145  touch ssh
+  146  cd ~
+  147  cd /Volumes/boot
+  148  vi config.txt
+  149  cd ~
+  150  diskutil list
+  151  diskutil unMountDisk /dev/disk2
+  152  sudo dd if=Downloads/2019-09-26-raspbian-buster-full.img of=/dev/rdisk2 bs=1m
+  153  arp -a
+  154  cd /Volumes/boot
+  155  ls
+  156  vi wpa_supplicant.conf
+  157  ls
+  158  touch ssh
+  159  cd ~
+  160  cd
+  161  diskutil eject /dev/rdisk2
+  162  arp -a
+  163  cd /Volumes
+  164  ls
+  165  cd boot
+  166  ls
+  167  touch ssh
+  168  ls
+  169  cd
+  170  diskutil eject /dev/rdisk2
+  171  cd /Volumes/boot
+  172  arp -a
+  173  vi wpa_supplicant.conf
+  174  ls
+  175  cd
+  176  arp -a
+  177  ping raspberrypi.local
+  178  arp -a
+  179  ssh pi@raspberrypi.local
+  180  ssh-keygenh pi@raspberrypi.local
+  277  git add .
+  278  git commit -m "slackとモータの関数修正"
+  279  git push
+  280  git push origin develop
+  281  ssh pi@raspberrypi.local
+  282  bc
+  283  ssh pi@raspberrypi.local
+  284  git add .
+  285  git commit -m "color.pyの位置修正"
+  286  git push origin daiki
+  287  git config user.email
+  288  ssh pi@raspberrypi.local
+  289  git pull origin master
+  290  ptyhon3
+  291  python3
+  292  sudo pip3 install git+https://github.com/Pithikos/python-websocket-server
+  293  python3 /Users/SuzukiDaiki/Downloads/server.py
+  294  sudo pip3 install websocket-client
+  295  python3 /Users/SuzukiDaiki/Downloads/server.py
+  296  npm install -g wscat
+  297  wscat -c wss://192.198.43.149:443
+  298  wscat -c ws://192.198.43.149:443
+  299  python3 /Users/SuzukiDaiki/Downloads/server.py
+  300  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  301  wscat -c ws://localhost:443
+  302  ifconfig
+  303  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  304  wscat -c ws://192.168.43.234:443
+  305  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  306  wscat -c ws://192.168.43.234:443
+  307  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  308  wscat -c ws://192.198.43.149:443
+  309  ssh pi@raspberrypi.local
+  310  wscat -c ws://192.168.43.149:443
+  311  ssh pi@raspberrypi.local
+  312  cd 
+  313  ls
+  314  cd Desktop
+  315  ls
+  316  ssh raspberrypi.local
+  317  ssh pi@raspberrypi.local
+  318  arp -a
+  319  ssh pi@192.168.43.149
+  320  ssh pi@raspberrypi.local
+  321  ssh pi@192.168.43.149
+  322  ssh pi@raspberrypi.local
+  323  ssh pi@192.168.43.149
+  324  bc
+  325  ssh pi@192.168.43.149
+  326  git add .
+  327  git commit -m "add: pressure sensor and temerature sensor"
+  328  git push origin daiki
+  329  ssh pi@raspberrypi.local
+  330  git add .
+  331  git commit -m "add: fullcolorLED"
+  332  git push origin daiki
+  333  git status
+  334  git add .
+  335  git commit -m "add: led use with color sensor"
+  336  git push origin daiki
+  337  git pull
+  338  git pull origin master
+  339  git checkout master
+  340  git stash
+  341  git checkout master
+  342  git log
+  343  ssh pi@192.168.43.149
+  344  git add .
+  345  git commit -m "add: websocket server"
+  346  git push origin daiki
+  347  git checkout master
+  348  git pull origin master
+  349  git checkout daiki
+  350  git rebase master
+  351  git rebase --abort
+  352  python
+  353  python3
+  354  sudo pip3 install websocket-client
+  355  python3 server-client.py
+  356  cd git/COJT-Autumn/raspberry-pi
+  357  python3 server-client.py
+  358  pip3 list
+  359  sudo pip3 install threading
+  360  python3 server-client.py
+  361  ssh pi@192.168.43.149
+  362  ssh pi@raspberrypi.local
+  363  arp -a
+  364  ssh pi@192.168.43.149
+  365  ssh pi@raspberrypi.local
+  366  git 7  git add .
+  278  git commit -m "slackとモータの関数修正"
+  279  git push
+  280  git push origin develop
+  281  ssh pi@raspberrypi.local
+  282  bc
+  283  ssh pi@raspberrypi.local
+  284  git add .
+  285  git commit -m "color.pyの位置修正"
+  286  git push origin daiki
+  287  git config user.email
+  288  ssh pi@raspberrypi.local
+  289  git pull origin master
+  290  ptyhon3
+  291  python3
+  292  sudo pip3 install git+https://github.com/Pithikos/python-websocket-server
+  293  python3 /Users/SuzukiDaiki/Downloads/server.py
+  294  sudo pip3 install websocket-client
+  295  python3 /Users/SuzukiDaiki/Downloads/server.py
+  296  npm install -g wscat
+  297  wscat -c wss://192.198.43.149:443
+  298  wscat -c ws://192.198.43.149:443
+  299  python3 /Users/SuzukiDaiki/Downloads/server.py
+  300  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  301  wscat -c ws://localhost:443
+  302  ifconfig
+  303  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  304  wscat -c ws://192.168.43.234:443
+  305  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  306  wscat -c ws://192.168.43.234:443
+  307  sudo python3 /Users/SuzukiDaiki/Downloads/server.py
+  308  wscat -c ws:/  ssh pi@raspberrypi.local
+  408  ping raspberrypi.local
+  409  ssh pi@raspberrypi.local
+  410  ping 192.168.43.149
+  411  ssh pi@raspberrypi.local
+  412  ping 192.168.43.149
+  413  ssh pi@raspberrypi.local
+  414  bc
+  415  emacs test.txt
+  416  ping https://staging.canwehatch.com/
+  417  png https://staging.canwehatch.com/
+  418  ping https://staging.canwehatch.com/
+  419  yarn install typescript
+  420  touch .gitignore
+  421  git add .
+  422  git commit -m "add: gitignore"
+  423  git push origin daiki
+  424  find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+  425  git add .
+  426  git commit -m "fix: delete DS_Store"
+  427  git rm -r --cached .
+  428  git add .
+  429  git commit -m "delete: DS_Store"
+  430  git push origin daiki
+  431  cd Desktop
+  432  mkdir test-react
+  433  cd test-react
+  434  hyper install hyperterm-horizon
+  435  ls
+  436  cd Desktop
+  437  echo "# react-native-tutolial" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:Calic0Cat/react-native-tutolial.git\ngit push -u origin master
+  438  ls -a
+  439  rm -rf .git/.
+  440  rm -rf .git/
+  441  cd ../git
+  442  ls -a
+  443  git clone git@github.com:Calic0Cat/react-native-tutolial.git
+  444  cd react-native-tutolial
+  445  cd ../
+  446  git clone git@github.com:Calic0Cat/help-keiba.git
+  447  cd help-keiba
+  448  git checkout -b develop
+  449  git add .
+  450  touch test.txt
+  451  git add
+  452  git add .
+  453  git commit -m "add:test.txt"
+  454  git push origin develop
+  455  cd ../
+  456  ls
+  457  cd git-test
+  458  git pull
+  459  git pull origin master
+  460  git branch
+  461  git pull
+  462  git log
+  463  git log --graph
+  464  git branch -a
+  465  git checkout develop
+  466  git checkout feature/test-1
+  467  git checkout feature/test-2
+  468  git log --graph
+  469  git log
+  470  git show-branch topic master
+  471  git show-branch --sha1-name develop feature/sugoi_branch | tail -1
+  472  git show-branch --sha1-name develop feature/test-1 | tail -1
+  473  git show-branch --sha1-name master feature/test-1 | tail -1
+  474  git checkout develop
+  475  touch test.txt
+  476  git add .
+  477  git commit -m "add: test"
+  478  git push origin develop
+  479  git pull
+  480  git checkput feature/test-3
+  481  git checkout feature/test-3
+  482  git show-branch --sha1-name master feature/test-3 | tail -1
+  483  git show-branch --sha1-name develop feature/test-3 | tail -1
+  484  cd ../
+  485  ls
+  486  git clone
+  487  git clone git@github.com:KaiseiSato/amare.git
+  488  cd amare
+  489  git pull
+  490  git branch
+  491  git branch -a
+  492  git checkout develop
+  493  git add .
+  494  git commit -m "add: README.md"
+  495  git push origin develop
+  496  hyper install hyperterm-horizon\n
+  497  git p  408  ping raspberrypi.local
+  409  ssh pi@raspberrypi.local
+  410  ping 192.168.43.149
+  411  ssh pi@raspberrypi.local
+  412  ping 192.168.43.149
+  413  ssh pi@raspberrypi.local
+  414  bc
+  415  emacs test.txt
+  416  ping https://staging.canwehatch.com/
+  417  png https://staging.canwehatch.com/
+  418  ping https://staging.canwehatch.com/
+  419  yarn install typescript
+  420  touch .gitignore
+  421  git add .
+  422  git commit -m "add: gitignore"
+  423  git push origin daiki
+  424  find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+  425  git add .
+  426  git commit -m "fix: delete DS_Store"
+  427  git rm -r --cached .
+  428  git add .
+  429  git commit -m "delete: DS_Store"
+  430  git push origin daiki
+  431  cd Desktop
+  432  mkdir test-react
+  433  cd test-react
+  434  hyper install hyperterm-horizon
+  435  ls
+  436  cd Desktop
+  437  echo "# react-native-tutolial" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:Calic0Cat/react-native-tutolial.git\ngit push -u origin master
+  438  ls -a
+  439  rm -rf .git/.
+  440  rm -rf .git/
+  441  cd ../git
+  442  ls -a
+  443  git clone git@githuecond commit"
+  542  git push origin test1
+  543  git checkout develop
+  544  git add .
+  545  git commit -m "testx1"
+  546  git add .
+  547  git commit -m "testx2"
+  548  git log --graph --all --format="%x09%an%x09%h %d %s"
+  549  git checkout test1
+  550  git marge develop
+  551  git merge develop
+  552  git merge --abort
+  553  cd checkout develop
+  554  git checkout develop
+  555  git merge --abort
+  556  git checkout test1
+  557  git reset --hard HEAD
+  558  git reset --hard ORIG_HEAD
+  559  git reset --hard HEAD^
+  560  git rebase develop
+  561  git add .
+  562  git commit -m "add:rebase"
+  563  git checkout develop
+  564  git add .
+  565  git commit -m "testx3"
+  566  git push origin develop
+  567  git checkout test1
+  568  git pull
+  569  git rebase develop
+  570  yarn add -g expo-cli
+  571  yarn add expo-cli
+  572  expo start
+  573  yarn
+  574  expo start
+  575  expo init
+  576  yarn install
+  577  yarn list
+  578  expo
+  579  git checkout develop 
+  580  expo start
+  581  yarn global add expo-cli
+  582  expo init
+  583  cd tutolial
+  584  yarn start
+  585  ls
+  586  cd Library
+  587  cd Caches
+  588  ls
+  589  rmdir com.apple.appstore
+  590  rm -r com.apple.appstore
+  591  expo start
+  592  expo init
+  593  cd tutolial
+  594  yarn start
+  595  yarn stop
+  596  cd tutorial
+  597  cd ../tutorial
+  598  cd ../
+  599  ls
+  600  pwd
+  601  cd ../
+  602  ls
+  603  cd git
+  604  cd amare
+  605  ls
+  606  cd ../react-native-tutolial
+  607  ls
+  608  cd tutorial
+  609  yarn start
+  610  sudo chmod -R 777 /private/tmp
+  611  udo xcode-select -s /Applications/Xcode.app
+  612  sudo xcode-select -s /Applications/Xcode.app
+  613  yarn stop
+  614  yarn add firebase
+  615  cd tutorial
+  616  yarn start
+  617  yarn add firebase
+  618  cd tutorial
+  619  yarn start
+  620  cd tutorial
+  621  yarn add firebase
+  622  yarn add native-base
+  623  git add .
+  624  git commit -m "add: email authentication"
+  625  git add .
+  626  git commit -m "add: email authentication"
+  627  git status
+  628  cd ../
+  629  git add .
+  630  git commit -m "add:emailauthentication"
+  631  git add .
+  632  git commit -m "test"
+  633  git status
+  634  yarn
+  635  git commit -m "test"
+  636  ]
+  637  git commit -m "test"
+  638  git add .
+  639  git commit -m "test"
+  640  git add .
+  641  git commit -m "test"
+  642  git add .
+  643  git commit -m "test"
+  644  git add .
+  645  git commit -m "test"
+  646  cd tutorial
+  647  git status
+  648  cd ../
+  649  yarn 
+  650  yarn start
+  651  git pull
+  652  git add .
+  653  git commit -m "add:gitignoreにsrc/firebase/Fire.tsを追加"
+  654  git push origin develop
+  655  bfg --delete-files test1.txt
+  656  git pull
+  657  git log
+  658  git add .
+  659  git status
+  660  git checkout feature/messagesh origin test1
+  543  git checkout develop
+  544  git add .
+  545  git commit -m "testx1"
+  546  git add .
+  547  git commit -m "testx2"
+  548  git log --graph --all --format="%x09%an%x09%h %d %s"
+  549  git checkout test1
+  550  git marge develop
+  551  git merge develop
+  552  git merge --abort
+  553  cd checkout develop
+  554  git checkout develop
+  555  git merge --abort
+  556  git checkout test1
+  557  git reset --hard HEAD
+  558  git reset --hard ORIG_HEAD
+  559  git reset --hard HEAD^
+  560  git rebase develop
+  561  git add .
+  562  git commit -m "add:rebase"
+  563  git checkout develop
+  564  git add .
+  565  git commit -m "testx3"
+  566  git push origin develop
+  567  git checkout test1
+  568  git pull
+  569  git rebase develop
+  570  yarn add -g expo-cli
+  571  yarn add expo-cli
+  572  expo start
+  573  yarn
+  574  expo start
+  575  expo init
+  576  yarn install
+  577  yarn list
+  578  expo
+  579  git checkout develop 
+  580  expo start
+  581  yarn global add expo-cli
+  582  expo init
+  583  cd tutolial
+  584  yarn start
+  585  ls
+  586  cd Library
+  587  cd Caches
+  588  ls
+  589  rmdir com.apple.appstore
+  590  rm -r com.apple.appstoreture/message
+  702  git rebase develop
+  703  git checkout develop
+  704  git log
+  705  git reflog
+  706  git pull
+  707  git checkout feature/message
+  708  git push
+  709  git revert
+  710  git revert origin
+  711  git checkout develop
+  712  git add .
+  713  git commit -m "add:feature/profile"
+  714  git checkout develop
+  715  git checkout feature/message
+  716  git rebase develop
+  717  git checkout develop
+  718  git checkout feature/message
+  719  git log
+  720  git reset --hard HEAD^
+  721  git checkout develop
+  722  git pull
+  723  git checkout feature/message
+  724  git rebase develop
+  725  git checkout develop
+  726  ls
+  727  cd ../
+  728  ../
+  729  ls
+  730  cd /System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/
+  731  ls
+  732  cp SidecarCore /Users/SuzukiDaiki/Desktop/SidecarCore
+  733  ~
+  734  diskutil list
+  735  sudo diskutil eraseDisk FAT TEST /dev/disk2
+  736  diskutil filesystems
+  737  diskutil list
+  738  sudo diskutil eraseDisk FAT32 TEST /dev/disk2
+  739  defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
+  740  ls
+  741  cd ../
+  742  ls
+  743  git pull
+  744  git checkout feature/message
+  745  yarn start
+  746  defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
+  747  ssh d.suzu@mibel.cs.tsukuba.ac.jp -p 992
+  748  yarn start
+  749  ifconfig
+  750  ping 192.168.3.6
+  751  git add .
+  752  git commit -m "add:message送信部分実装"
+  753  yarn add react-native-gifted-chat
+  754  git ad
+  755  git add
+  756  git add .
+  757  git commit -m "fix:時間表記"
+  758  git add .
+  759  git commit -m "add:テーマカラー"
+  760  git add .
+  761  git commit -m "add:とりあえずのmessage機能"
+  762  git push origin feature/message
+  763  git pull
+  764  git add .
+  765  git commit -m "add:message機能のみpush"
+  766  git push origin feature/message
+  767  git pull
+  768  git add .
+  769  git commit -m "fix:conflict解消"
+  770  git push origin feature/message
+  771  git checkout develop
+  772  git pull
+  773  git merge feature/message
+  774  git pull
+  775  git checkout feature/login
+  776  git branch
+  777  git branch -a
+  778  git stash
+  779  git checkout develop
+  780  git pull
+  781  git checkout feature/message
+  782  git rebase develop
+  783  git checkout feature/login
+  784  git rebase develop
+  785  git stash list
+  786  git stash pop stash@{0}
+  787  git add .
+  788  git commit -m "fix:messageScreenのconsole.log消去"
+  789  yarn add realm
+  790  yarn remove realm
+  791  git add .
+  792  git commit -m "ase develop
+  703  git checkout develop
+  704  git log
+  705  git reflog
+  706  git pull
+  707  git checkout feature/message
+  708  git push
+  709  git revert
+  710  git revert origin
+  711  git checkout develop
+  712  git add .
+  713  git commit -m "add:feature/profile"
+  714  git checkout develop
+  715  git checkout feature/message
+  716  git rebase develop
+  717  git checkout develop
+  718  git checkout feature/message
+  719  git log
+  720  git reset --hard HEAD^
+  721  git checkout develop
+  722  git pull
+  723  git checkout feature/message
+  724  git rebase develop
+  725  git checkout develop
+  726  ls
+  727  cd ../
+  728  ../
+  729  ls
+  730  cd /System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/
+  731  ls
+  732  cp SidecarCore /Users/SuzukiDaiki/Desktop/SidecarCore
+  733  ~
+  734  diskutil list
+  735  sudo diskutil eraseDisk FAT TEST /dev/disk2
+  736  diskutil filesystems
+  737  diskutil list
+  738  sudo diskutil eraseDisk FAT32 TEST /dev/disk2
+  739  defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
+yarn
+  832  git checkout develop
+  833  git pull
+  834  yarn
+  835  git checkout feature/login
+  836  git stash
+  837  git log
+  838  git checkout a411d918fe887f2b95f6e974a4d0bb1cdb77954d
+  839  git log
+  840  git checkout 90e62c6ee6f3606196bc50e9be6b1c56a65fa973
+  841  git branch
+  842  git checkout feature/login
+  843  yarn
+  844  yarn start
+  845  git add .
+  846  git commit -m "fix:loginScreen"
+  847  git push origin feature/login
+  848  git checkout develop
+  849  git pull
+  850  git checkout feature/message
+  851  git rebase develop
+  852  git checkout develop
+  853  cd checkout feature/message
+  854  git checkout feature/message
+  855  expo start -c
+  856  git checkout develop
+  857  git pull
+  858  git checkout message
+  859  git checkout feature/message
+  860  git rebase develop
+  861  git stash
+  862  git rebase develop
+  863  yarn
+  864  git add .
+  865  git commit -m "fix:appcontainer"
+  866  git add .
+  867  git commit -m "fix:AppContainer.tsx"
+  868  git push origin feature/message
+  869  git checkout develop
+  870  git pul
+  871  git pull
+  872  yarn
+  873  git checkout feature/message
+  874  git add .
+  875  git commit -m "fix:LoginScreen"
+  876  git push origin feature/message
+  877  git checkout develop
+  878  git pull
+  879  git checkout feature/message
+  880  yarn
+  881  yarn start
+  882  git checkout develop
+  883  yarn
+  884  git pull
+  885  git checkout feature/message
+  886  git rebase develop
+  887  yarn
+  888  yarn update
+  889  yarn upgrade
+  890  expo
+  891  yarn start
+  892  git add .
+  893  git commit -m "fix:react-native-storage"
+  894  git push origin feature/message
+  895  git checkout develop
+  896  git pull
+  897  yarn
+  898  git checkout feature/message
+  899  git rebase develop
+  900  git add .
+  901  git commit -m "fix:redux"
+  902  git add .
+  903  git commit -m "fix:redux"
+  904  git add .
+  905  git commit -m "fix:redux"
+  906  git stash
+  907  git checkout feature/login
+  908  git checkout feature/message
+  909  git checkout feature/login
+  910  git rebase develop
+  911  yarn
+  912  git add .
+  913  git commit -m "fix:login画面"
+  914  git push origin feature/login
+  915  git checkout develop
+  916  git pull
+  917  git checkout feature/message
+  918  git rebase develop
+  919  git add .
+  920  git commit -m "fix:loginのコメント削除"
+  921  git add .
+  922  git commit -m "fix:AppContainer"
+  923  git add .
+  924  git commit -m "fix:messageReducer"
+  925  git add .
+  926  git commit -m "fix:loginState"
+  927  git checkout develop
+  928  git pull
+  929  cd Desktop
+  930  touch whitepaper.png
+  931  git checkout feature/develop
+  932  git checkout feature/message
+  933  git rebase develop
+  934  git log
+  935  git add .
+  936  git commit -m "fix:LoginScreen"
+  937  git add .
+  velop
+  833  git pull
+  834  yarn
+  835  git checkout feature/login
+  836  git stash
+  837  git log
+  838  git checkout a411d918fe887f2b95f6e974a4d0bb1cdb77954d
+  839  git log
+  840  git checkout 90e62c6ee6f3606196bc50e9be6b1c56a65fa973
+  841  git branch
+  842  git checkout feature/login
+  843  yarn
+  844  yarn start
+  845  git add .
+  846  git commit -m "fix:loginScreen"
+  847  git push origin feature/login
+  848  git checkout develop
+  849  git pull
+  850  git checkout feature/message
+  851  git rebase develop
+  852  git checkout develop
+  853  cd checkout feature/message
+  854  git checkout feature/message
+  855  expo start -c
+  856  git checkout develop
+  857  git pull
+  858  git checkout message
+  859  git checkout feature/message
+  860  git rebase develop
+  861  git stash
+  862  git rebase develop
+  863  yarn
+  864  git add .
+  865  git commit -m "fix:appcontainer"
+  866  git add .
+  867  git commit -m "fix:AppContainer.tsx"
+  868  git push origin feature/message
+  869  git checkout develop
+  870  git pul
+  871  git pull
+  872  yarn
+  873  git checkout feature/message
+  874  git add .
+  875  git commit -m "fix:LoginScreen"
+  876  git push origin fe 973  ./cpanm -l ~/perl Graph
+  974  chmod +x cpanm
+  975  ./cpanm -l ~/perl Graph
+  976  ./cpanm -l ~/perl Smart::Comments
+  977  ./cpanm -l ~/perl List::Util
+  978  pwd
+  979  perl 5-1.pl network.txt
+  980  git add .
+  981  git commit -m "add:edgelist"
+  982  perl 5-1.pl ERnetwork.txt
+  983  bash 5-1.sh
+  984  git add .
+  985  git commit -m "add:5-1"
+  986  bash 5-1.sh
+  987  ssh d.suzu@mibel.cs.tsukuba.ac.jp -p 992
+  988  yarn start
+  989  vi /etc/shells
+  990  chsh -s /usr/local/bin/zsh
+  991  which zsh
+  992  vi /etc/shells
+  993  sudo vi /etc/shells
+  994  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  995  sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  996  cd /Users/appleuser/.oh-my-zsh
+  997  ls
+  998  pwd
+  999  cd /users
+ 1000  ls
+ 1001  brew install zsh
+ 1002  brew upgrade zsh
+ 1003  git log
+ 1004  yarn start
+ 1005  yarn
+ 1006  git checkout develop
+ 1007  git pull
+ 1008  git checkout feature/message
+ 1009  git rebase develop
+ 1010  git add .
+ 1011  git commit -m "fix:MessageNavigation"
+ 1012  node -v
+ 1013  cd git
+ 1014  git clone https://github.com/riywo/anyenv ~/.anyenv
+ 1015  echo 'export PATH="$HOME/.anyenv/bin:$PATH"' >> ~/.bash_profile
+ 1016  echo 'eval "$(anyenv init -)"' >> ~/.bash_profile
+ 1017  exec $SHELL -l
+ 1018  anyenv install nodenv
+ 1019  ls
+ 1020  ls -a
+ 1021  nodenv
+ 1022  anyenv install nodenv
+ 1023  cat .bash_profile
+ 1024  anyenv install nodenv
+ 1025  ls -a
+ 1026  git checkout master
+ 1027  git branch
+ 1028  git checkout develop
+ 1029  git add .
+ 1030  git commit -m "add:血統"
+ 1031  git add .
+ 1032  git commit -m "add:photo"
+ 1033  git add .
+ 1034  git commit -m "add:js stopped"
+ 1035  git add .
+ 1036  git commit -m "add:image position"
+ 1037  git add .
+ 1038  git commit -m "add:list表示"
+ 1039  git add .
+ 1040  git commit -m "add:searchgrid"
+ 1041  c
+ 1042  bc
+ 1043  yarn start
+ 1044  git add .
+ 1045  git commit -m "Add:TimelineScreen MessageButton.onPress"
+ 1046  vi ~/.zprofile
+ 1047  brew install anyenv
+ 1048  anyenv init
+ 1049  echo 'eval "$(anyenv init -)"' >> ~/.zshrc
+ 1050  anyenv install --init
+ 1051  git checkout develop
+ 1052  nodenv local 12.16.2
+ 1053  anyenv install nodenv
+ 1054  exec $SHELL -l
+ 1055  nodenv local 12.16.2
+ 1056  nodenv install -l
+ 1057  nodenv local 12.16.2
+ 1058  nodenv install 12.16.2
+ 1059  nodenv local 12.16.2
+ 1060  node -v
+ 1061  $(nodenv root)
+ 1062  ~
+ 1063  touch $(nodenv root)/default-packages
+ 1064  nodenv install 12.16.2
+ 1065  nodenv local 12.16.2
+ 1066  node -v
+ 1067  which node
+ 1068  sudo rm -rf /usr/local/bin/node
+ 1069  node -v
+ 1070  git checkout feature/message
+ 1071  node -v
+ 1072  yarn start
+ 1073  yarn install
+ 1074  yarnh
+  974  chmod +x cpanm
+  975  ./cpanm -l ~/perl Graph
+  976  ./cpanm -l ~/perl Smart::Comments
+  977  ./cpanm -l ~/perl List::Util
+  978  pwd
+  979  perl 5-1.pl network.txt
+  980  git add .
+  981  git commit -m "add:edgelist"
+  982  perl 5-1.pl ERnetwork.txt
+  983  bash 5-1.sh
+  984  git add .
+  985  git commit -m "add:5-1"
+  986  bash 5-1.sh
+  987  ssh d.suzu@mibel.cs.tsukuba.ac.jp -p 992
+  988  yarn start
+  989  vi /etc/shells
+  990  chsh -s /usr/local/bin/zsh
+  991  which zsh
+  992  vi /etc/shells
+  993  sudo vi /etc/shells
+  994  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  995  sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  996  cd /Users/appleuser/.oh-my-zsh
+  997  ls
+  998  pwd
+  999  cd /users
+ 1000  ls
+ 1001  brew install zsh
+ 1002  brew upgrade zsh
+ 1003  git log
+ 1004  yarn start
+ 1005  yarn
+ 1006  git checkout develop
+ 1007  git pull
+ 1008  git checkout feature/message
+ 1009  git rebase develop
+ 1010  git add .
+ 1011  git commit -m "fix:MessageNavigation"
+ 1012  node -v
+ 1013  cd git
+ 1014  git clone https://github.com/riyw .
+ 1112  echo amare-dev-firebase-adminsdk-gkc3e-0468b93c4b.json >> .gitignore
+ 1113  export GOOGLE_APPLICATION_CREDENTIALS="$(pwd)/xxxx-firebase-adminsdk-xxxx.json"
+ 1114  cd functions
+ 1115  yarn add 'firebase-admin'
+ 1116  yarn add firebase-admin
+ 1117  node -v
+ 1118  cd ../
+ 1119  yarn remove firebase-admin
+ 1120  cd functions
+ 1121  yarn add firebase-admin
+ 1122  yarn
+ 1123  cd ../
+ 1124  yarn
+ 1125  yarn start
+ 1126  git add .
+ 1127  git commit -m "fix:timelineScreen"
+ 1128  git add .
+ 1129  git commit -m "fix:timelineScreen"
+ 1130  git add .
+ 1131  git commit -m "fix:timelineScreen"
+ 1132  git add .
+ 1133  git commit -m "fix:timelineScreen"
+ 1134  git add .
+ 1135  git commit -m "fix:timelineScreen"
+ 1136  git add .
+ 1137  git commit -m "fix:timelineScreen"
+ 1138  git add .
+ 1139  git commit -m "fix:timelineScreen"
+ 1140  git add .
+ 1141  git commit -m "fix:timelineScreen"
+ 1142  git add .
+ 1143  git commit -m "add:room作成"
+ 1144  yarn start
+ 1145  git add .
+ 1146  git commit -m "fix:messageAPI"
+ 1147  git add .
+ 1148  git commit -m "fix:timelineScreen"
+ 1149  git checkout develop
+ 1150  git pull
+ 1151  yarn
+ 1152  node -v
+ 1153  nodenv local 12.16.2
+ 1154  yarn
+ 1155  git checkout feature/messag
+ 1156  git checkout feature/message
+ 1157  git rebase develop
+ 1158  yarn
+ 1159  vi ~/.bash_profile
+ 1160  pwd
+ 1161  adb
+ 1162  vi ~/.bash_profile
+ 1163  vi ~/.zshrc
+ 1164  vi ~/.bash_profile
+ 1165  vi ~/.zshrc
+ 1166  adb
+ 1167  git add .
+ 1168  git commit -m "fix:messageReducer"
+ 1169  git add .
+ 1170  git commit -m "fix:messageReducer"
+ 1171  yarn start
+ 1172  git add .
+ 1173  git commit -m "fix:LoginScreen"
+ 1174  git add .
+ 1175  git commit -m "fix:LoginScreen"
+ 1176  git add .
+ 1177  git commit -m "add:roomIdfetch"
+ 1178  git add .
+ 1179  git commit -m "add:roomIdfetch"
+ 1180  git commit -m "add:roomListCreate"
+ 1181  git add .
+ 1182  git commit -m "add:roomFieldSet"
+ 1183  git add .
+ 1184  git commit -m "fix:roomFieldSet"
+ 1185  git add .
+ 1186  git commit -m "fix:roomFieldSet"
+ 1187  git add .
+ 1188  git commit -m "fix:roomFieldSet"
+ 1189  git add .
+ 1190  git commit -m "fix:roomFieldSet"
+ 1191  git add .
+ 1192  git commit -m "add:roomListCreate"
+ 1193  git add .
+ 1194  git commit -m "add:roomListCreate"
+ 1195  git add .
+ 1196  git commit -m "add:roomListCreate"
+ 1197  git add .
+ 1198  git commit -m "fix:roomListScreen"
+ 1199  git checkout develop
+ 1200  git pull
+ 1201  git checkout feature/message
+ 1202  git rebase develop
+ 1203  git add .
+ 1204  git commit -m "add:cell"
+ 1205  git push origin feature/message
+ 1206  cd functions
+ 1207  node -v
+ 1208  yarn start
+ 1209  ls .ssh
+ 1210  ls -a
+ 1211  vi .ssh
+ 1212  cd .ssh/config
+ 1213  vi .ssh/config
+ 1214  ssh now36
+ 1215  vi .ssh/config
+ 1216  ssh now36
+ 1217  vi .ssrebase-adminsdk-gkc3e-0468b93c4b.json >> .gitignore
+ 1113  export GOOGLE_APPLICATION_CREDENTIALS="$(pwd)/xxxx-firebase-adminsdk-xxxx.json"
+ 1114  cd functions
+ 1115  yarn add 'firebase-admin'
+ 1116  yarn add firebase-admin
+ 1117  node -v
+ 1118  cd ../
+ 1119  yarn remove firebase-admin
+ 1120  cd functions
+ 1121  yarn add firebase-admin
+ 1122  yarn
+ 1123  cd ../
+ 1124  yarn
+ 1125  yarn start
+ 1126  git add .
+ 1127  git commit -m "fix:timelineScreen"
+ 1128  git add .
+ 1129  git commit -m "fix:timelineScreen"
+ 1130  git add .
+ 1131  git commit -m "fix:timelineScreen"
+ 1132  git add .
+ 1133  git commit -m "fix:timelineScreen"
+ 1134  git add .
+ 1135  git commit -m "fix:timelineScreen"
+ 1136  git add .
+ 1137  git commit -m "fix:timelineScreen"
+ 1138  git add .
+ 1139  git commit -m "fix:timelineScreen"
+ 1140  git add .
+ 1141  git commit -m "fix:timelineScreen"
+ 1142  git add .
+ 1143  git commit -m "add:room作成"
+ 1144  yarn start
+ 1145  git add .
+ 1146  git commit -m "fix:messageAPI"
+ 1147  git add .
+ 1148  git commit -m "fix:timelineScreen"
+ 1149  git checkout develop
+ 1150  git pull
+ 1151  yarn
+ 1152  node -v
+ 1153  nodenv local 12.16.2
+ 1154  yarn
+ 1155  gitree
+ 1244  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script/
+ 1245  sudo sh Script__LFRDataset.sh
+ 1246  sh Script__LFRDataset.sh
+ 1247  jar -tf ../lib/data_handlers.jar
+ 1248  jar -tf ../lib/fastutil-6.4.2.jar
+ 1249  jar -tf ../lib/data_handlers.jar
+ 1250  jar -tf ../lib/data_handlers.jar >> handlers.txt
+ 1251  jar -tf ../lib/fastutil-6.4.2.jar >> fastutil.txt
+ 1252  cd ../
+ 1253  ls
+ 1254  sh makefile.sh
+ 1255  cd SampleDataset\&Script
+ 1256  sh Script__LFRDataset.sh
+ 1257  cd ../
+ 1258  sh makefile.sh
+ 1259  cd SampleDataset\&Script
+ 1260  sh Script__LFRDataset.sh
+ 1261  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1262  sh Script__LFRDataset.sh
+ 1263  git add .
+ 1264  git commit -m "removed ":""
+ 1265  sh Script__LFRDataset.sh
+ 1266  git add .
+ 1267  cd ../
+ 1268  ../
+ 1269  git add .
+ 1270  git commit -m "removed ':' from sampleScript"
+ 1271  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1272  sh Script__LFRDataset.sh
+ 1273  ~
+ 1274  cd Desktop/研究資料/spring
+ 1275  git add .
+ 1276  git commit -m "move LERB"
+ 1277  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script/
+ 1278  ls
+ 1279  sh Script__LFRDataset.sh
+ 1280  yarn start
+ 1281  yarn add array-foreach-async
+ 1282  yarn remove array-foreach-async
+ 1283  git add .
+ 1284  git commit -m "fix:messageapi"
+ 1285  git add .
+ 1286  git commit -m "fix:messageApi"
+ 1287  git add .
+ 1288  git commit -m "fix:messageApi"
+ 1289  git add .
+ 1290  git commit -m "fix:messageApi"
+ 1291  git add .
+ 1292  git commit -m "fix:messageAPI"
+ 1293  git add .
+ 1294  git commit -m "fix:RoomList"
+ 1295  git 
+ 1296  git checkout develop
+ 1297  git pull
+ 1298  git pull origin develop
+ 1299  vi .ssh/config
+ 1300  git pull
+ 1301  git checkout feature/login
+ 1302  git rebase develop
+ 1303  git stash
+ 1304  git checkout develop
+ 1305  git pull -a
+ 1306  git branch -a
+ 1307  git chek
+ 1308  git checkout -b remotes/origin/feature/expoSDK37
+ 1309  git checkout develop
+ 1310  git branch -a
+ 1311  git checkout -b feature/expoSDK37
+ 1312  git pull
+ 1313  git pull origin feature/expoSDK37
+ 1314  yarn
+ 1315  yarn start
+ 1316  git checkout develop
+ 1317  git checkout feature/login
+ 1318  git stash pop
+ 1319  git add .
+ 1320  git stash
+ 1321  git checkout develop
+ 1322  git checkout feature/login
+ 1323  git rebase develop
+ 1324  git stash pop
+ 1325  git add .
+ 1326  git commit -m "fix:loginScreen.tsx"
+ 1327  git add .
+ 1328  git commit -m "add:redux loginScreen.tsx"
+ 1329  git push origin feature/login
+ 1330  git checkout develop
+ 1331  git pull
+ 1332  git checkout feature/message
+ 1333  git push origin feature/message
+ 1334  git rebase develop
+ 1335  git add .
+ 1336  git branch -a
+ 1337  git rebase develop
+ 1338  git rebase --continue
+ 1339  git add .
+ age/CommDiff-Package/src/SampleDataset\&Script/
+ 1245  sudo sh Script__LFRDataset.sh
+ 1246  sh Script__LFRDataset.sh
+ 1247  jar -tf ../lib/data_handlers.jar
+ 1248  jar -tf ../lib/fastutil-6.4.2.jar
+ 1249  jar -tf ../lib/data_handlers.jar
+ 1250  jar -tf ../lib/data_handlers.jar >> handlers.txt
+ 1251  jar -tf ../lib/fastutil-6.4.2.jar >> fastutil.txt
+ 1252  cd ../
+ 1253  ls
+ 1254  sh makefile.sh
+ 1255  cd SampleDataset\&Script
+ 1256  sh Script__LFRDataset.sh
+ 1257  cd ../
+ 1258  sh makefile.sh
+ 1259  cd SampleDataset\&Script
+ 1260  sh Script__LFRDataset.sh
+ 1261  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1262  sh Script__LFRDataset.sh
+ 1263  git add .
+ 1264  git commit -m "removed ":""
+ 1265  sh Script__LFRDataset.sh
+ 1266  git add .
+ 1267  cd ../
+ 1268  ../
+ 1269  git add .
+ 1270  git commit -m "removed ':' from sampleScript"
+ 1271  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1272  sh Script__LFRDataset.sh
+ 1273  ~
+ 1274  cd Desktop/研究資料/spring
+ 1275  git add .
+ 1276  git commit -m "move LERB"
+ 1277  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script/
+ 1278  ls
+ 1279  sh Script__LFRDataset.sh
+ 1280  ya branch -m feature/captcha
+ 1381  git push origin feature/captcha
+ 1382  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1383  ls
+ 1384  sh Script__LFRDataset.sh
+ 1385  sh Script__LFRDataset.sh >> test1.txt
+ 1386  yarn start
+ 1387  cd ../
+ 1388  cd amare-backend
+ 1389  firebase serve --only hosting
+ 1390  yarn add expo-firebase-recaptcha
+ 1391  git rebase develop
+ 1392  git add .
+ 1393  git commit -m "add:expo-firebase-recaptcha"
+ 1394  git add .
+ 1395  git commit -m "add:expo-firebase-recaptcha"
+ 1396  git rebase develop
+ 1397  yarn add formik
+ 1398  yarn add .
+ 1399  git add .
+ 1400  git commit -m "fix:loginscreen"
+ 1401  git add .
+ 1402  git commit -m "fix:loginscreen"
+ 1403  yarn add react-native-modal
+ 1404  yarn
+ 1405  yarn update expo
+ 1406  yarn start
+ 1407  yarn add react-native-webview
+ 1408  Could not get BatchedBridge, make sure your bundle is packaged correctly\n\nABI37_0_0RCTFatal\n-[ABI37_0_0RCTCxxBridge handleError:]\n__43-[ABI37_0_0RCTCxxBridge _initializeBridge:]_block_invoke\nABI37_0_0facebook::ABI37_0_0React::ABI37_0_0RCTMessageThread::tryFunc(std::__1::function<void ()> const&)\n__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__\n__CFRunLoopDoBlocks\n__CFRunLoopRun\nCFRunLoopRunSpecific\n+[ABI37_0_0RCTCxxBridge runRunLoop]\n__NSThread__start__\n_pthread_start\nthread_star
+ 1409  yarn start --reset-cache
+ 1410  yarn start
+ 1411  git add .
+ 1412  git commit -m ""add:loginscreen
+ 1413  git add .
+ 1414  git commit -m "fix:loginscreen"
+ 1415  git add .
+ 1416  git commit -m "add:loginStyles"
+ 1417  git add .
+ 1418  git commit -m "fix:loginscreen"
+ 1419  git add .
+ 1420  git commit -m "fix:LoginScreen"
+ 1421  git push origin feature/login
+ 1422  git add .
+ 1423  git commit -m "fix:LoginStyles"
+ 1424  git push origin feature/login
+ 1425  git add .
+ 1426  git commit -m "fix:LoginStyles"
+ 1427  git add .
+ 1428  git commit -m "fix:LoginStyles"
+ 1429  git add .
+ 1430  git commit -m "fix:LoginStyles"
+ 1431  git push origin feature/login
+ 1432  git add .
+ 1433  git commit -m "fix:LoginStyles"
+ 1434  git push origin feature/login
+ 1435  git add .
+ 1436  git commit -m "fix:LoginScreen"
+ 1437  git push origin feature/login
+ 1438  git add .
+ 1439  git push origin feature/login
+ 1440  git add .
+ 1441  git commit -m "fix:loginStyles"
+ 1442  git push origin feature/login
+ 1443  git checkout develop
+ 1444  git pull
+ 1445  git checkout feature/login
+ 1446  git rebase develop
+ 1447  git add .
+ 1448  git commit -m "fix:loginStyles"
+ 1449  git push origin feature/login
+ 1450  git push origin feature/login -f
+ 1451  git checkout develop
+ 1452  git pull
+ 1453  git checkout feature/message
+ 1454  git rebase develop
+ 1455  git checkout develop
+ 1456  git pull
+ 1457  git checkout feature/message
+ 1458  git rebase develop
+ 1459  git add .
+ 1460  git commit 1381  git push origin feature/captcha
+ 1382  cd CommDiff-Package/CommDiff-Package/src/SampleDataset\&Script
+ 1383  ls
+ 1384  sh Script__LFRDataset.sh
+ 1385  sh Script__LFRDataset.sh >> test1.txt
+ 1386  yarn start
+ 1387  cd ../
+ 1388  cd amare-backend
+ 1389  firebase serve --only hosting
+ 1390  yarn add expo-firebase-recaptcha
+ 1391  git rebase develop
+ 1392  git add .
+ 1393  git commit -m "add:expo-firebase-recaptcha"
+ 1394  git add .
+ 1395  git commit -m "add:expo-firebase-recaptcha"
+ 1396  git rebase develop
+ 1397  yarn add formik
+ 1398  yarn add .
+ 1399  git add .
+ 1400  git commit -m "fix:loginscreen"
+ 1401  git add .
+ 1402  git commit -m "fix:loginscreen"
+ 1403  yarn add react-native-modal
+ 1404  yarn
+ 1405  yarn update expo
+ 1406  yarn start
+ 1407  yarn add react-native-webview
+ 1408  Could not get BatchedBridge, make sure your bundle is packaged correctly\n\nABI37_0_0RCTFatal\n-[ABI37_0_0RCTCxxBridge handleError:]\n__43-[ABI37_0_0RCTCxxBridge _initializeBridge:]_block_invoke\nABI37_0_0facebook::ABI37_0_0React::ABI37_0_0RCTMessageThread::tryFunc(std::__1::function<void ()> const&)\n__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__\n__CFRunLoopDoBlocks\n__CFRunLoopRun\nCFRun505  yarn add 
+ 1506  git add .
+ 1507  git commit -m "fix:loginScrenn"
+ 1508  git add .
+ 1509  git commit -m "fix:LoginScreen"
+ 1510  yarn
+ 1511  yarn add firebase-tools
+ 1512  firebase deploy --only functions:sendNotification
+ 1513  yarn upgrade firebase-tools
+ 1514  firebase deploy --only functions:sendNotification
+ 1515  firebase logout
+ 1516  firebase deploy --only functions:sendNotification
+ 1517  firebase login
+ 1518  firebase deploy --only functions:sendNotification
+ 1519  yarn --version
+ 1520  npm --version
+ 1521  cd usr/local/lib/node_modules/firebase-tools/lib/checkFirebaseSDKVersion
+ 1522  pwd
+ 1523  cd ../
+ 1524  ls
+ 1525  cd SuzukiDaiki
+ 1526  ls
+ 1527  cd local
+ 1528  cd ../
+ 1529  ls
+ 1530  cd /usr/local/lib/node_modules/firebase-tools/lib/
+ 1531  ls
+ 1532  vi checkFirebaseSDKVersion
+ 1533  vi checkFirebaseSDKVersion.js
+ 1534  firebase deploy --only functions:sendNotification
+ 1535  chmod +x node_modules/ -R
+ 1536  sudo firebase deploy --only functions:sendNotification
+ 1537  firebase deploy --help
+ 1538  npm --version
+ 1539  node --bersion
+ 1540  node --version
+ 1541  firebase deploy --only functions:sendNotification
+ 1542  yarn start
+ 1543  git add .
+ 1544  git commit -m "fix:messageAPI"
+ 1545  git add .
+ 1546  git commit -m "fix:messageAPI"
+ 1547  git add .
+ 1548  git commit -m "fix:RoomListScreen"
+ 1549  expo login
+ 1550  yarn start
+ 1551  yarn
+ 1552  git add .
+ 1553  git commit -m "fix:loginscreen"
+ 1554  git push origin feature/message
+ 1555  cd
+ 1556  cd git/amare
+ 1557  git checkout develop
+ 1558  git pull
+ 1559  git checkout feature/message
+ 1560  git rebase develop
+ 1561  git add .
+ 1562  git commit -m "fix:messagescreen"
+ 1563  git add .
+ 1564  git commit -m "fix:messagescreen"
+ 1565  git push origin feature/message
+ 1566  git push origin feature/message -f
+ 1567  git checkout develop
+ 1568  git pull
+ 1569  git checkout feature/message
+ 1570  git add .
+ 1571  git commi -m "fix:loginscreen"
+ 1572  git commit -m "fix:loginscreen"
+ 1573  git add .
+ 1574  git commit -m "fix:loginscreen"
+ 1575  git push origin feature/message
+ 1576  git checkout develop
+ 1577  git pull
+ 1578  git reflog
+ 1579  git reset --hard 'HEAD@{10}'
+ 1580  git checkout feature/message
+ 1581  git reflog
+ 1582  git checkout develop
+ 1583  git reflog
+ 1584  git pull
+ 1585  git reflog
+ 1586  git checkout feature/message
+ 1587  git reflog
+ 1588  git checkout develop
+ 1589  git log
+ 1590  git reflog
+ 1591  git reset --hard 5877cc3
+ 1592  git checkout feature/message
+ 1593  git reflog
+ 1594  git reset --hard e7929a4
+ 1595  git push origin feature/message
+ 1596  git add .
+ 1597  git commit -m "fix:LoginScreen"
+ 1598  git push origin feature/message
+ 1599  git checkout develop
+ 1600  git pull
+ 1601  git checkout feature/message
+ 1602  git rebase devdd .
+ 1507  git commit -m "fix:loginScrenn"
+ 1508  git add .
+ 1509  git commit -m "fix:LoginScreen"
+ 1510  yarn
+ 1511  yarn add firebase-tools
+ 1512  firebase deploy --only functions:sendNotification
+ 1513  yarn upgrade firebase-tools
+ 1514  firebase deploy --only functions:sendNotification
+ 1515  firebase logout
+ 1516  firebase deploy --only functions:sendNotification
+ 1517  firebase login
+ 1518  firebase deploy --only functions:sendNotification
+ 1519  yarn --version
+ 1520  npm --version
+ 1521  cd usr/local/lib/node_modules/firebase-tools/lib/checkFirebaseSDKVersion
+ 1522  pwd
+ 1523  cd ../
+ 1524  ls
+ 1525  cd SuzukiDaiki
+ 1526  ls
+ 1527  cd local
+ 1528  cd ../
+ 1529  ls
+ 1530  cd /usr/local/lib/node_modules/firebase-tools/lib/
+ 1531  ls
+ 1532  vi checkFirebaseSDKVersion
+ 1533  vi checkFirebaseSDKVersion.js
+ 1534  firebase deploy --only functions:sendNotification
+ 1535  chmod +x node_modules/ -R
+ 1536  sudo firebase deploy --only functions:sendNotification
+ 1537  firebase deploy --help
+ 1538  npm --version
+ 1539  node --bersion
+ 1540  node --version
+ 1541  firebase deploy --only functions:sendNotification
+ 1542  yarn start
+ 1543  git add .
+ 1544  git commit -een"
+ 1643  git checkout develop
+ 1644  git reflog
+ 1645  git reset --hard e7929a4
+ 1646  git push origin feature/message
+ 1647  git push origin feature/message -f
+ 1648  git checkout feature/message
+ 1649  git add .
+ 1650  git commit -m "add:async"
+ 1651  git push origin feature/message
+ 1652  git add .
+ 1653  git commit -m "fix:LoginScreen"
+ 1654  git push origin feature/message
+ 1655  git remote -v
+ 1656  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+ 1657  git checkout -b feature/gittest
+ 1658  git push origin feature/gittest
+ 1659  git checkout feature/message
+ 1660  git reflog
+ 1661  reset --hard e7929a4
+ 1662  git reset --hard e7929a4
+ 1663  git push origin feature/message
+ 1664  git push origin feature/message -f
+ 1665  git log
+ 1666  git revert d60b6d5aeff895d867bcc3b3e5469509b78e14a8
+ 1667  git add .
+ 1668  git push origin feature/message
+ 1669  git log
+ 1670  git add .
+ 1671  git commit -m "fix:loginscreen"
+ 1672  git push origin feature/message
+ 1673  git pull origin feature/message
+ 1674  git push feature/gittest
+ 1675  git checkout feature/gittest
+ 1676  git checkout develop
+ 1677  git pull
+ 1678  git merge gittest
+ 1679  git merge feature/gittest
+ 1680  git checkout feature/gittest
+ 1681  git merge develop
+ 1682  git checkout develop
+ 1683  git checkout developtest
+ 1684  git checkout -b developtest
+ 1685  git rebase feature/message
+ 1686  git rebase --continue
+ 1687  git add .
+ 1688  git rebase --continue
+ 1689  git add .
+ 1690  git rebase --continue
+ 1691  git add .
+ 1692  git rebase --continue
+ 1693  git checkout feature/message
+ 1694  git checkout -b messagetest
+ 1695  git marge develop
+ 1696  git merge develop
+ 1697  git checkout develop
+ 1698  git checkout developtest
+ 1699  git log
+ 1700  git checkout feature/message
+ 1701  git  checkout mstest
+ 1702  git stash
+ 1703  git checkout -b mstest
+ 1704  git rebase develop
+ 1705  git stash pop
+ 1706  git checkout feature/message
+ 1707  git stash
+ 1708  git checkout feature/message
+ 1709  git stash
+ 1710  git checkout develop
+ 1711  git add .
+ 1712  git branch -d mstest
+ 1713  git checkout develop
+ 1714  git branch -d mstest
+ 1715  git checkout feature/message
+ 1716  git reset
+ 1717  git checkout feature/message
+ 1718  git stash drop
+ 1719  git checkout feature/message
+ 1720  git stash
+ 1721  git checkout feature/message
+ 1722  git rebase develop
+ 1723  git pull origin feature/message
+ 1724  git add .
+ 1725  git commit -m "fix:loginscreen"
+ 1726  git add .
+ 1727  git commit -m "fix:loginscreen"
+ 1728  git diff origin/feature/message..HEAD
+ 1729  git diff origin/feature/message..HEAD > tmp.txt
+ 1730  yarn add expo-permissions
+ 17velop
+ 1644  git reflog
+ 1645  git reset --hard e7929a4
+ 1646  git push origin feature/message
+ 1647  git push origin feature/message -f
+ 1648  git checkout feature/message
+ 1649  git add .
+ 1650  git commit -m "add:async"
+ 1651  git push origin feature/message
+ 1652  git add .
+ 1653  git commit -m "fix:LoginScreen"
+ 1654  git push origin feature/message
+ 1655  git remote -v
+ 1656  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+ 1657  git checkout -b feature/gittest
+ 1658  git push origin feature/gittest
+ 1659  git checkout feature/message
+ 1660  git reflog
+ 1661  reset --hard e7929a4
+ 1662  git reset --hard e7929a4
+ 1663  git push origin feature/message
+ 1664  git push origin feature/message -f
+ 1665  git log
+ 1666  git revert d60b6d5aeff895d867bcc3b3e5469509b78e14a8
+ 1667  git add .
+ 1668  git push origin feature/message
+ 1669  git log
+ 1670  git add .
+ 1671  git commit -m "fix:loginscreen"
+ 1672  git push origin feature/message
+ 1673  git pull origin feature/message
+ 1674  git push feature/gittest
+ 1675  git checko  git rebase --continue
+ 1775  git add .
+ 1776  git commit -m "fix:saveDeviseToken"
+ 1777  git checkout develp
+ 1778  git checkout develop
+ 1779  git add .
+ 1780  git commit -m "fix:pushNotification"
+ 1781  git checkout develop
+ 1782  git pull
+ 1783  git checkout feature/pushNotification
+ 1784  git merge --abort
+ 1785  git pull
+ 1786  git pull develop
+ 1787  git merge --abort
+ 1788  git pull origin develop
+ 1789  git checkout feature/pushNotification
+ 1790  git add .
+ 1791  git checkout feature/pushNotification
+ 1792  git rebase develop
+ 1793  git add .
+ 1794  firebase deploy --only functions:pushNotification
+ 1795  yarn start
+ 1796  firebase deploy --only functions:pushNotification
+ 1797  git add .
+ 1798  firebase deploy --only functions:pushNotification
+ 1799  git log
+ 1800  firebase deploy --only functions:pushNotification
+ 1801  git add .
+ 1802  git commit -m "fix:loginscreen"
+ 1803  firebase deploy --only functions:pushNotification
+ 1804  git add .
+ 1805  git commit -m "fix:messageAPI"
+ 1806  git add .
+ 1807  git commit -m "add:通報"
+ 1808  git add .
+ 1809  git commit -m "fix:pushNotification"
+ 1810  git add .
+ 1811  git commit -m "fix:RoomList UI"
+ 1812  git checkout develop
+ 1813  git pull
+ 1814  git checkout feature/message
+ 1815  git push origin develop
+ 1816  git push origin feature/message
+ 1817  yarn start
+ 1818  git add .
+ 1819  git log
+ 1820  git status
+ 1821  git add .
+ 1822  git status
+ 1823  git checkout develop
+ 1824  git pull
+ 1825  git checkout -b authentication
+ 1826  yarn start
+ 1827  cd ManagementScreen
+ 1828  yarn start
+ 1829  yarn
+ 1830  yarn start
+ 1831  firebase use production
+ 1832  firebase logout
+ 1833  firebase login
+ 1834  firebase use production
+ 1835  firebase projects:list
+ 1836  firebase list
+ 1837  projects:list
+ 1838  firebase projects:list
+ 1839  firebase help
+ 1840  firebase login --reauth
+ 1841  firebase projects:list
+ 1842  firebase list
+ 1843  pwd
+ 1844  npm install -g firebase-tools
+ 1845  firebase projects:list
+ 1846  npm uninstall -g firebase-tools
+ 1847  firebase login --reauth
+ 1848  firebase projects:list
+ 1849  firebase login --reauth
+ 1850  yarn upgrate firebase-tools
+ 1851  npm
+ 1852  yarn
+ 1853  npm --version
+ 1854  node --version
+ 1855  cd functions
+ 1856  firebase projects:list
+ 1857  yarn upgrade firebase-tools
+ 1858  firebase projects:list
+ 1859  firebase help
+ 1860  firebase list
+ 1861  firebase logout
+ 1862  firebase login
+ 1863  firebase list
+ 1864  firebase projects:list
+ 1865  npm i -g install firebase-tools
+ 1866  firebase projects:list
+ 1867  yarn remove firebase-tools
+ 1868  firebase projects:list
+ 1869  firebase logout
+ 1870  firebase login
+ 1871  firebase help
+ 1872  firebase list
+ 1873  firebase use
+ 1874  git checkout develop
+ 1875  git stash
+ 1876  git check75  git add .
+ 1776  git commit -m "fix:saveDeviseToken"
+ 1777  git checkout develp
+ 1778  git checkout develop
+ 1779  git add .
+ 1780  git commit -m "fix:pushNotification"
+ 1781  git checkout develop
+ 1782  git pull
+ 1783  git checkout feature/pushNotification
+ 1784  git merge --abort
+ 1785  git pull
+ 1786  git pull develop
+ 1787  git merge --abort
+ 1788  git pull origin develop
+ 1789  git checkout feature/pushNotification
+ 1790  git add .
+ 1791  git checkout feature/pushNotification
+ 1792  git rebase develop
+ 1793  git add .
+ 1794  firebase deploy --only functions:pushNotification
+ 1795  yarn start
+ 1796  firebase deploy --only functions:pushNotification
+ 1797  git add .
+ 1798  firebase deploy --only functions:pushNotification
+ 1799  git log
+ 1800  firebase deploy --only functions:pushNotification
+ 1801  git add .
+ 1802  git commit -m "fix:loginscreen"
+ 1803  firebase deploy --only functions:pushNotification
+ 1804  git add .
+ 1805  git commit -m "fix:messageAPI"
+ 1806  git add .
+ 1807  git commit -m "add:通報"
+ 1808  git add .
+ 1809  git commit -m "fix:pushNotification"
+ 1810  git add .
+ 1811  git commit -m "fix:RoomList UI"
+ 1812  git checkout develop
+ 18mit -m "fix:RoomListScreen"
+ 1916  git push origin feature/message
+ 1917  git add .
+ 1918  git commit -m "fix:messageAPI"
+ 1919  git push origin feature/message
+ 1920  cd ManagementScreen
+ 1921  yarn start
+ 1922  yarn
+ 1923  yarn start
+ 1924  cd ManagementScreen
+ 1925  yarn add firebase
+ 1926  yarn remove firebase
+ 1927  yarn add passport
+ 1928  yarn add passport-local
+ 1929  yarn add .
+ 1930  git add .
+ 1931  git commit -m "add:authenticator"
+ 1932  git add .
+ 1933  git commit -m "add:userDataGetter"
+ 1934  yarn add .
+ 1935  git add .
+ 1936  git commit -m "login.js"
+ 1937  git add .
+ 1938  git commit -m "fix:index.js"
+ 1939  yarn start
+ 1940  git add .
+ 1941  git commit -m "fix:app.js"
+ 1942  yarn add body-parser
+ 1943  yarn add express-session
+ 1944  yarn start
+ 1945  git add .
+ 1946  git commit -m "fix:login"
+ 1947  yarn add crypto
+ 1948  yarn start
+ 1949  yarn remove crypto
+ 1950  yarn add bcrypt
+ 1951  yarn start
+ 1952  yarn add bcrypt
+ 1953  node --version
+ 1954  yarn add bcryptjs
+ 1955  yarn start
+ 1956  git add .
+ 1957  git commit -m "add:hash"
+ 1958  git push origin feature/authentication
+ 1959  git add .
+ 1960  cd ../
+ 1961  git add .
+ 1962  git commit -m "fix:.gitignore"
+ 1963  git push origin feature/authentication
+ 1964  git checkout develop
+ 1965  git pull
+ 1966  git checkout feature/pushNotification
+ 1967  git rebase develop
+ 1968  git rebase --abort
+ 1969  git checkout develop
+ 1970  git pull
+ 1971  git checkout feature/notification
+ 1972  git checkout -b feature/notification
+ 1973  git add .
+ 1974  git commit -m "add:pushNotification"
+ 1975  git log
+ 1976  git checkout develop
+ 1977  git pull
+ 1978  git checkout feature/notification
+ 1979  git rebase develop
+ 1980  yarn add react-native-firebase
+ 1981  yarn remove firebase
+ 1982  yarn add firebase
+ 1983  yarn add firebase@7.9.0
+ 1984  expo eject
+ 1985  git add .
+ 1986  git commit -m "fix:loginAPI"
+ 1987  git add .
+ 1988  git commit -m "fix:loginAPI"
+ 1989  expo eject
+ 1990  cd ios
+ 1991  pod install
+ 1992  npx pod-install
+ 1993  cd ..
+ 1994  cd ios
+ 1995  yarn pod-install
+ 1996  yarn run pod-install
+ 1997  yarn pod install
+ 1998  npx pod-install
+ 1999  git add .
+ 2000  git commit -m "add:ios & android"
+ 2001  git checkout develop
+ 2002  cd ../
+ 2003  git add .
+ 2004  git commit -m "add:ios & android"
+ 2005  git add .
+ 2006  git commit -m "fix:LoginScreen"
+ 2007  git checkout develop
+ 2008  git pull
+ 2009  git checkout feature/message
+ 2010  yarn start
+ 2011  yarn remove react-native-webview
+ 2012  yarn start
+ 2013  git checkout develop
+ 2014  git checkout feature/authentication
+ 2015  git checkout feature/notification
+ 2016  git stash
+ 2017  git checkout feature/notification
+ 2018  git add .
+ 2019  git commit -m "remove:ios & android"
+ 2020  git checkout devv
+ 1916  git push origin feature/message
+ 1917  git add .
+ 1918  git commit -m "fix:messageAPI"
+ 1919  git push origin feature/message
+ 1920  cd ManagementScreen
+ 1921  yarn start
+ 1922  yarn
+ 1923  yarn start
+ 1924  cd ManagementScreen
+ 1925  yarn add firebase
+ 1926  yarn remove firebase
+ 1927  yarn add passport
+ 1928  yarn add passport-local
+ 1929  yarn add .
+ 1930  git add .
+ 1931  git commit -m "add:authenticator"
+ 1932  git add .
+ 1933  git commit -m "add:userDataGetter"
+ 1934  yarn add .
+ 1935  git add .
+ 1936  git commit -m "login.js"
+ 1937  git add .
+ 1938  git commit -m "fix:index.js"
+ 1939  yarn start
+ 1940  git add .
+ 1941  git commit -m "fix:app.js"
+ 1942  yarn add body-parser
+ 1943  yarn add express-session
+ 1944  yarn start
+ 1945  git add .
+ 1946  git commit -m "fix:login"
+ 1947  yarn add crypto
+ 1948  yarn start
+ 1949  yarn remove crypto
+ 1950  yarn add bcrypt
+ 1951  yarn start
+ 1952  yarn add bcrypt
+ 1953  node --version
+ 1954  yarn add bcryptjs
+ 1955  yarn start
+ 1956  git add .
+ 1957  git commit -m "add:hash"
+ 1958  git push origin feature/authentication
+ 1959  git add .
+ 1960  cd ../
+ 1961  git add .
+ 1962  git commit -m "fix:.gitignoit rebase --abort
+ 2059  git pull
+ 2060  git checkout feature/pushNotification
+ 2061  git rebase develop
+ 2062  firebase deploy --only functions:pushNotification
+ 2063  cd functions
+ 2064  firebase deploy --only functions:pushNotification
+ 2065  yarn
+ 2066  firebase deploy --only functions:pushNotification
+ 2067  yarn add expo-server-sdk
+ 2068  yarn add firebase-functions
+ 2069  firebase deploy --only functions:pushNotification
+ 2070  git add .
+ 2071  git commit -m "fix:pushNotification"
+ 2072  cd ../
+ 2073  git add .
+ 2074  git commit -m "fix:pushNotification"
+ 2075  git push origin feature/notification
+ 2076  gcc -v
+ 2077  gcc mutex.c
+ 2078  a.out
+ 2079  ./a.out
+ 2080  echo "# parallel_system" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:Calic0Cat/parallel_system.git\ngit push -u origin master
+ 2081  git add .
+ 2082  git commit -m "add:mutex.c"
+ 2083  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/mutex-reclock-normal.c
+ 2084  brew install wget
+ 2085  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/mutex-reclock-normal.c
+ 2086  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/mutex-reclock-recursive.c
+ 2087  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/Makefile
+ 2088  gcc    -c -o mutex-reclock-recursive.o mutex-reclock-recursive.c
+ 2089  gcc mutex-reclock-recursive.o -lpthread -o mutex-reclock-recursive
+ 2090  ./mutex-reclock-recursive
+ 2091  python3
+ 2092  python3 mutex-relock-recursive.py
+ 2093  python3
+ 2094  python3 mutex-relock-recursive.py
+ 2095  git add .
+ 2096  git commit -m "add:課題2"
+ 2097  git log
+ 2098  git reflog
+ 2099  git add .
+ 2100  git commit -m "fix:messageAPI"
+ 2101  git push O
+ 2102  git push origin feature/pushNotification
+ 2103  yarn start
+ 2104  git checkout feature/message
+ 2105  git rebase develop
+ 2106  git checkout develop
+ 2107  git pull
+ 2108  git checkout -b feature/changeImage
+ 2109  cd functions
+ 2110  firebase deploy --only functions:changeRoomField
+ 2111  yarn start
+ 2112  git add .
+ 2113  git commit -m "fix:messageAPI"
+ 2114  firebase deploy --only functions:changeRoomField
+ 2115  git add .
+ 2116  git commit -m "remove:roomFieldSet"
+ 2117  git add .
+ 2118  git commit -m "fix:roomFieldSet"
+ 2119  firebase deploy --only functions:changeRoomField
+ 2120  git add .
+ 2121  git commit -m "fix:messageRoomScreen"
+ 2122  yarn start
+ 2123  firebase deploy --only functions:changeRoomField
+ 2124  git checkout develop
+ 2125  git add .
+ 2126  git commit -m "fix:messageAPI"
+ 2127  git checkout develop
+ 2128  git pull
+ 2129  git checkout feature/message
+ 2130  git rebase develop
+ 2131  git push origin feature/message
+ 2132  git p
+ 2133  yarn start
+ 2134  git add .
+ 2135  git commit -m "fix:mt pull
+ 2060  git checkout feature/pushNotification
+ 2061  git rebase develop
+ 2062  firebase deploy --only functions:pushNotification
+ 2063  cd functions
+ 2064  firebase deploy --only functions:pushNotification
+ 2065  yarn
+ 2066  firebase deploy --only functions:pushNotification
+ 2067  yarn add expo-server-sdk
+ 2068  yarn add firebase-functions
+ 2069  firebase deploy --only functions:pushNotification
+ 2070  git add .
+ 2071  git commit -m "fix:pushNotification"
+ 2072  cd ../
+ 2073  git add .
+ 2074  git commit -m "fix:pushNotification"
+ 2075  git push origin feature/notification
+ 2076  gcc -v
+ 2077  gcc mutex.c
+ 2078  a.out
+ 2079  ./a.out
+ 2080  echo "# parallel_system" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:Calic0Cat/parallel_system.git\ngit push -u origin master
+ 2081  git add .
+ 2082  git commit -m "add:mutex.c"
+ 2083  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/mutex-reclock-normal.c
+ 2084  brew install wget
+ 2085  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/mutex-reclock-normal.c
+ 2086  wget http://www.cs.tsukuba.ac.jp/\~yas/cs/csys-2020/2020-05-08/ex/muDiff-Package/src/SampleDataset
+ 2167  /Users/Suzuki
+ 2168  ls
+ 2169  sh Script__LFRDataset.sh > test2.txt
+ 2170* cd /Users/SuzukiDaiki/Desktop/CommDiff-Package/CommDiff-Package 
+ 2171* cd src/SampleDataset
+ 2172* cd LFRDataSet
+ 2173* cd ../
+ 2174* sh Script__LFRDataset.sh
+ 2175* cd ../../../
+ 2176* ls
+ 2177* cd ../
+ 2178* ls
+ 2179* cd CommDiff-Package
+ 2180* ls
+ 2181* cd ../
+ 2182* ls
+ 2183* cd CommDiff-Package/CommDiff-Package
+ 2184* ls
+ 2185* cd /Users/SuzukiDaiki/Desktop/CommDiff-Package/CommDiff-Package/src/SampleDataset 
+ 2186* sh Script__LFRDataset.sh
+ 2187* sh Script_LFRDataset.sh
+ 2188* sh Script__LFRDataset.sh
+ 2189  grep java history
+ 2190  grep java || history
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hhistory || grep java > grepjava.txt[P[25C [26D[P[25C [26D[P[24C [26D[P[25C [26D[P[25C [26D[P[25C [26D[P[25C [26D[P[25C [26Dh[P[25C [26D[P[25C [26D[1C[1C[1C[1C[1C[1C[1C[1C[1C[16C[16D[1C[10D                         [25Dgrep java || history[10Dhistory   [17Dsh Script__LFRDataset.sh[24Dgrep java history       || history[20D                    [20Dgrep java || history[10Dhistory   [17Dsh Script__LFRDataset.sh[14D[P[13C [13D_LFRDataset.sh[24Dcd /Users/SuzukiDaiki/Desktop/CommDiff-Package/CommDiff-Package/src/SampleDataset [82Dls                                                                               [79Dcd CommDiff-Package/CommDiff-Package[36Dls                                  [34Dcd /Users/SuzukiDaiki/Desktop/CommDiff-Package/CommDiff-Package/src/SampleDataset [82Dsh Script__LFRDataset.sh                                                         [57D[14D[P[13C [13D_LFRDataset.sh[24Dgrep java history       || history[20D                    [20Dhhistory | grep java  r[?1l>[?2004l
+]2;omz_history | grep --color=auto  jar]1;history 1231  ls ../lib/*.[01;31m[Kjar[m[K
+ 1239  java -[01;31m[Kjar[m[K ../lib/data_handlers.[01;31m[Kjar[m[K
+ 1241  java -[01;31m[Kjar[m[K ../lib/fastutil-6.4.2.[01;31m[Kjar[m[K
+ 1247  [01;31m[Kjar[m[K -tf ../lib/data_handlers.[01;31m[Kjar[m[K
+ 1248  [01;31m[Kjar[m[K -tf ../lib/fastutil-6.4.2.[01;31m[Kjar[m[K
+ 1249  [01;31m[Kjar[m[K -tf ../lib/data_handlers.[01;31m[Kjar[m[K
+ 1250  [01;31m[Kjar[m[K -tf ../lib/data_handlers.[01;31m[Kjar[m[K >> handlers.txt
+ 1251  [01;31m[Kjar[m[K -tf ../lib/fastutil-6.4.2.[01;31m[Kjar[m[K >> fastutil.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggre g  hhistory | grep java[?1l>[?2004l
+]2;omz_history | grep --color=auto  java]1;history 1239  [01;31m[Kjava[m[K -jar ../lib/data_handlers.jar
+ 1241  [01;31m[Kjava[m[K -jar ../lib/fastutil-6.4.2.jar
+ 1242  [01;31m[Kjava[m[Kc ../myDANIBased/DANIProgram.[01;31m[Kjava[m[K
+ 2189  grep [01;31m[Kjava[m[K history
+ 2190  grep [01;31m[Kjava[m[K || history
+ 2191  history || grep [01;31m[Kjava[m[K > grep[01;31m[Kjava[m[K.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hhistory | grep javar va[19D                   [19Dhistory | grep javar [9D| grep java > grepjava.txt[35D[11P[10C|| history               [15D[1Cc || history[11D[11C[11D[P[11C [12D[P[11C [12D[8D                   [19Dgrep java history[17Dsh Script__LFRDataset.sh[24Dgrep java history       c history[8D| history[8D history [9D history [9D[9D                 [17Dsh Script__LFRDataset.sh[14D[P[13C [13D_LFRDataset.sh[24Dhistory || grep java > grepjava.txt[26D grep jar                 [17Dva[1Cc[?1l>[?2004l
+]2;omz_history | grep --color=auto  javac]1;history 1242  [01;31m[Kjavac[m[K ../myDANIBased/DANIProgram.java
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004h[Kjar[m[K
+ 1248  [01;31m[Kjar[m[K -tf ../lib/fastutil-6.4.2.[01;31m[Kjar[m[K
+ 1249  [01;31m[Kjar[m[K -tf ../lib/data_handlers.[01;31m[Kjar[m[K
+ 1250  [01;31m[Kjar[m[K -tf ../lib/data_handlers.[01;31m[Kjar[m[K >> handlers.txt
+ 1251  [01;31m[Kjar[m[K -tf ../lib/fastutil-6.4.2.[01;31m[Kjar[m[K >> fastutil.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hggre g  hhistory | grep java[?1l>[?2004l
+]2;omz_history | grep --color=auto  java]1;history 1239  [01;31m[Kjava[m[K -jar ../lib/data_handlers.jar
+ 1241  [01;31m[Kjava[m[K -jar ../lib/fastutil-6.4.2.jar
+ 1242  [01;31m[Kjava[m[Kc ../myDANIBased/DANIProgram.[01;31m[Kjava[m[K
+ 2189  grep [01;31m[Kjava[m[K history
+ 2190  grep [01;31m[Kjava[m[K || history
+ 2191  history || grep [01;31m[Kjava[m[K > grep[01;31m[Kjava[m[K.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004hhistory | grep javar va[19D                   [19Dhistory | grep javar [9D| grep java > grepjava.txt[35D[11P[10C|| history               [15D[1Cc || history[11D[11C[11D[P[11C [12D[P[11C [12D[8D                   [19Dgrep java history[17Dsh Script__LFRDataset.sh[24Dgrep java history       c history[8D| history[8D history [9D history [9D[9D                 [17Dsh Script__LFRDataset.sh[14D[P[13C [13D_LFRDataset.sh[24Dhistory || grep java > grepjava.txt[26D grep jar                 [17Dva[1Cc[?1l>[?2004l
+]2;omz_history | grep --color=auto  javac]1;history 1242  [01;31m[Kjavac[m[K ../myDANIBased/DANIProgram.java
+[1m[7m%[27m[1m[0m                                                                                                                                                           ]2;SuzukiDaiki@suzukidikinoAir: ~/Desktop/研究資料/spring/CommDiff-Package/CommDiff-Package/src/SampleDataset]1;..SampleDataset[0m[27m[24m[J[01;32m➜  [36mSampleDataset[00m [01;34mgit:([31mfeature/case-1[34m) [33m✗[00m [K[?1h=[?2004h
